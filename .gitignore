@@ -98,22 +98,3 @@ Thumbs.db
 # 🔹 Git Large File Storage (LFS)
 # ============================
 # Nếu bạn lưu trữ tệp lớn như ảnh, video, audio thì nên bật Git LFS.
-*.psd
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.tga
-*.tiff
-*.mp3
-*.wav
-*.ogg
-*.mp4
-*.mov
-*.avi
-*.fbx
-*.blend
-*.obj
-*.zip
-*.rar
-*.7z

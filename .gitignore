@@ -1,0 +1,68 @@
+# This .gitignore file is for Unity projects
+
+# ===============
+# Unity Generated
+# ===============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# ==========================
+# Visual Studio / Rider / VSCode
+# ==========================
+.vscode/
+*.code-workspace
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# ==========================
+# Unity Asset Store tools
+# ==========================
+Assets/AssetStoreTools*
+
+# ==========================
+# Auto-generated files
+# ==========================
+*.pidb
+*.unitypackage
+
+# ==========================
+# Crash reports / Debugging
+# ==========================
+crash-reports/
+*.stacktrace
+
+# ==========================
+# Misc
+# ==========================
+*.apk
+*.aab
+*.ipa
+*.exe
+*.app
+*.bat
+*.sh
+.DS_Store
+*.swp
+Thumbs.db
+
+# ==========================
+# JetBrains Rider / ReSharper
+# ==========================
+.idea/
+*.DotSettings.user

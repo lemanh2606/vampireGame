@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: FieldsTile_61_0
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 790085662374499130, guid: 578a0cd850291074aa536b05daeb1cbb, type: 3}
+  m_Sprite: {fileID: 790085662374499130, guid: 06671392fd68682489ddce2d943d5b87, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

@@ -1,0 +1,36 @@
+# 🛑 Loại bỏ thư mục build, cache và file tạm của Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# 🛑 Loại bỏ file cache của Lightmap
+Assets/**/*.lighting
+Assets/**/*.LightingData.asset
+Assets/**/Lightmap-*.exr
+Assets/**/LightmapSnapshot.asset
+
+# 🛑 Loại bỏ file của hệ điều hành
+.DS_Store
+Thumbs.db
+
+# 🛑 Loại bỏ file của IDE
+.vscode/
+*.sln
+*.csproj
+*.pidb
+*.unityproj
+*.userprefs
+*.suo
+*.tmp
+*.svd
+*.aps
+*.mdb
+*.opendb
+*.VC.db
+
+# 🛑 Loại bỏ file của Unity Collab
+.collab/

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      0_Golem_Slashing_009_0: -42349754910381692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

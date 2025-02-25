@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Minotaur_01_Idle Blinking_010_0: -3013186769297784403
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

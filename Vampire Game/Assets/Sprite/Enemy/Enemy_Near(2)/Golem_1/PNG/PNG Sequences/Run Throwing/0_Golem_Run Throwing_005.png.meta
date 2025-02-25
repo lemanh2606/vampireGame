@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      0_Golem_Run Throwing_005_0: -972284242130042430
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

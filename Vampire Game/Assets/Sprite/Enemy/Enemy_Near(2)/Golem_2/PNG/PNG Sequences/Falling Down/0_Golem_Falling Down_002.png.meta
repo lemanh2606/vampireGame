@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      0_Golem_Falling Down_002_0: -7657146062154666796
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

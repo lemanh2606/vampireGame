@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      0_Golem_Idle Blinking_007_0: -4195127317424170815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

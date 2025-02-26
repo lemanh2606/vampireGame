@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      0_Golem_Dying_014_0: -6641508740017431807
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

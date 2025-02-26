@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Minotaur_01_Jump Start_001_0: -2515419503356730204
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

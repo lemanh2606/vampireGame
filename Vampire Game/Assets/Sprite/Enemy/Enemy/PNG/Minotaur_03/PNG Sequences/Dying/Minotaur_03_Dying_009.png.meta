@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Minotaur_03_Dying_009_0: 1113628166435917961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -11,9 +11,11 @@ GameObject:
   - component: {fileID: 421857665739103278}
   - component: {fileID: 8856201568989014066}
   - component: {fileID: 6931554632459893026}
+  - component: {fileID: -6635779561383603775}
+  - component: {fileID: 4975034108484429392}
   m_Layer: 0
   m_Name: stone1
-  m_TagString: Untagged
+  m_TagString: Prop
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -74,8 +76,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -277784545
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -2966200626249415253, guid: 7dbed2a1e0187bf4fb5c0944aaefaac6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -134,3 +136,32 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.09375, y: 0.9375}
   m_EdgeRadius: 0
+--- !u!114 &-6635779561383603775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6678778480333141013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b47ca4a71564e244bb6fb7311dfe3d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 10
+--- !u!114 &4975034108484429392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6678778480333141013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6df06f186db07124e971021c19c773ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  drops:
+  - name: Red potion
+    itemPrefab: {fileID: 2880509340963596611, guid: 1fdce76900bf80b439d065d31def73de, type: 3}
+    dropeRate: 50

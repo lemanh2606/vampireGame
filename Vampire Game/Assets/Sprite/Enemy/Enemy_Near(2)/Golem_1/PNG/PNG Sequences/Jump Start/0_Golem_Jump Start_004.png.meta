@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      0_Golem_Jump Start_004_0: 6052574895911972974
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

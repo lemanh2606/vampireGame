@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      0_Golem_Slashing in The Air_005_0: 3281244616316529239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Minotaur_02_Idle_009_0: -7852386101828033382
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

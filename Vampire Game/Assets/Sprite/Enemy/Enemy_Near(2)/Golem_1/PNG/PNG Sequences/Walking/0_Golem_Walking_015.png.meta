@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      0_Golem_Walking_015_0: 1381380365804287995
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

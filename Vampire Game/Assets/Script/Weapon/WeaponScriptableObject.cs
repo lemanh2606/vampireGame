@@ -33,4 +33,8 @@ public class WeaponScriptableObject : ScriptableObject
     [SerializeField]
     GameObject nextLevelPrefabs;
     public GameObject NextLevelPrefabs { get => nextLevelPrefabs; private set => nextLevelPrefabs = value; }
+
+    [SerializeField]
+    Sprite icon; // Not mean modified in game [Only in editor]
+    public Sprite Icon { get => icon; private set => icon = value; }
 }

@@ -1,8 +1,9 @@
-﻿using NUnit.Framework;
+using NUnit.Framework;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+
 
 public class GameManager : MonoBehaviour
 {
@@ -29,25 +30,25 @@ public class GameManager : MonoBehaviour
 
     [Header("Current Stat Displays")]
     //Current stat displays;
-    public Text currentHealthDisplay;
-    public Text currentRecoveryDisplay;
-    public Text currentMoveSpeedDisplay;
-    public Text currentMightDisplay;
-    public Text currentProjectileSpeedDisplay;
-    public Text currentMagnetDisplay;
+    public TMPro.TMP_Text currentHealthDisplay;
+    public TMPro.TMP_Text currentRecoveryDisplay;
+    public TMPro.TMP_Text currentMoveSpeedDisplay;
+    public TMPro.TMP_Text currentMightDisplay;
+    public TMPro.TMP_Text currentProjectileSpeedDisplay;
+    public TMPro.TMP_Text currentMagnetDisplay;
 
     [Header("Results Screen Displays")]
     public Image chosenCharacterImage;
-    public Text chosenCharacterName;
-    public Text levelReachedDisplay;
-    public Text timeSurvivedDisplay;
+    public TMPro.TMP_Text chosenCharacterName;
+    public TMPro.TMP_Text levelReachedDisplay;
+    public TMPro.TMP_Text timeSurvivedDisplay;
     public List<Image> chosenWeaponUI = new List<Image>(6);
     public List<Image> chosenPassiveItemUI = new List<Image>(6);
 
     [Header("Stopwatch")]
     public float timeLimit; //The time limit in seconds
     float stopwatchTime; //The current time elapsed since the stopwatch started
-    public Text stopwatchDisplay;
+    public TMPro.TMP_Text stopwatchDisplay;
 
 
     //flag check if the game is over
@@ -241,7 +242,7 @@ public class GameManager : MonoBehaviour
 
         if (stopwatchTime >= timeLimit)
         {
-            GameOver();
+            playerObject.SendMessage("Kill");
         }
     }
 

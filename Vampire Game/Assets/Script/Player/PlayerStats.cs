@@ -138,9 +138,7 @@ public class PlayerStats : MonoBehaviour
     public Image expBar;
     public TMPro.TMP_Text levelText;
 
-    public GameObject secondWeaponTest;
 
-    public GameObject firstPassiiveItemTest, secondPassiveItemTest;
     
     void Awake()
     {
@@ -157,9 +155,7 @@ public class PlayerStats : MonoBehaviour
         CurrentMagnet = characterData.Magnet;
 
         SpawnWeapon(characterData.StartingWeapon);
-        //SpawnWeapon(secondWeaponTest);
-        //SpawnPassiveItem(firstPassiiveItemTest);
-        SpawnPassiveItem(secondPassiveItemTest);
+    
 
     }
 

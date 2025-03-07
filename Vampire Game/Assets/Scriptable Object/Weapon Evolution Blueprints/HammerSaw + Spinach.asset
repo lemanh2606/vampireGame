@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 247bf51e810865a4d92ee7dd5d59c179, type: 3}
+  m_Name: HammerSaw + Spinach
+  m_EditorClassIdentifier: 
+  baseWeaponData: {fileID: 11400000, guid: 9621e20ec1b393c45938366607ea4f9c, type: 2}
+  catalystPasiveItemData: {fileID: 11400000, guid: 398f3477ff5aaa74088aebb25813ae21, type: 2}
+  evolveWeaponData: {fileID: 11400000, guid: 8190bdcc9d146a94192d09f0f1503878, type: 2}
+  evolvedWeapon: {fileID: 6453717461674233366, guid: da298eabe82c5da41a26664ae4cdfa0c, type: 3}

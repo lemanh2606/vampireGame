@@ -12,11 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f3a4fab0ebacb546bdbd0cfc23d22e1, type: 3}
   m_Name: HammerSawWeapon Level 2
   m_EditorClassIdentifier: 
-  prefab: {fileID: 5664671291062845475, guid: 1b9290da0fb8b744380693b0d273d35f, type: 3}
+  prefab: {fileID: 5664671291062845475, guid: 20309e630763e41479f22d89c368fa73, type: 3}
   damage: 5
   speed: 15
-  cooldownDuration: 3
+  cooldownDuration: 0.5
   pierce: 1
   level: 2
   nextLevelPrefabs: {fileID: 0}
+  name: Hammer saw level 2
+  description: Speed is up by 5
   icon: {fileID: 790947474, guid: de601a8258ec95f4b93ac52b3c05566a, type: 3}

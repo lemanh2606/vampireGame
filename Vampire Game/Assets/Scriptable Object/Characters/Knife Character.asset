@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b911c7ec35423b429f5e0271886acaa, type: 3}
   m_Name: Knife Character
   m_EditorClassIdentifier: 
+  icon: {fileID: 8652089332363073071, guid: 13078a2d0f25ea94c83a42ad2ca4782f, type: 3}
+  name: 
   startingWeapon: {fileID: 6453717461674233366, guid: 9dbd11d84f51a934b9e59a9fb14a35fc, type: 3}
   maxHealth: 1000
   recovery: 1

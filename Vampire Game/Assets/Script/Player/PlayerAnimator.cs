@@ -20,13 +20,13 @@ public class PlayerAnimator : MonoBehaviour
     {
         if (pm.moveDir.x != 0 || pm.moveDir.y != 0)
         {
-            am.SetBool("Move", true);
+            am.SetBool("move", true);
 
             SpriteDirectionChecker();
         }
         else
         {
-            am.SetBool("Move", false);
+            am.SetBool("move", false);
         }
     }
 

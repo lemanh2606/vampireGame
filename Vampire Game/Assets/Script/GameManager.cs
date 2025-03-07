@@ -1,5 +1,8 @@
-using NUnit.Framework;
+﻿using NUnit.Framework;
+using System.Collections;
 using System.Collections.Generic;
+using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -21,6 +24,12 @@ public class GameManager : MonoBehaviour
     public GameState currentState;
     //Store previous state of the game
     public GameState previousState;
+
+    [Header("Damage Text Settings")]
+    public Canvas damageTextCanvas;
+    public float textFontSize = 20;
+    public TMP_FontAsset textFont;
+    public Camera referenceCamera;
 
     [Header("Screens")]
     public GameObject pauseScreen;
@@ -118,6 +127,90 @@ public class GameManager : MonoBehaviour
         }
     }
 
+ 
+ IEnumerator  GenerateFloatingTextCoroutine(string text, Transform target, float duration = 1f, float speed = 50f)
+{
+    // Start generating the floating text.
+    GameObject textObj = new GameObject("Damage Floating Text");
+    RectTransform rect = textObj.AddComponent<RectTransform>();
+    TextMeshProUGUI tmpPro = textObj.AddComponent<TextMeshProUGUI>();
+    tmpPro.text = text;
+    tmpPro.horizontalAlignment = HorizontalAlignmentOptions.Center;
+    tmpPro.verticalAlignment = VerticalAlignmentOptions.Middle;
+    tmpPro.fontSize = textFontSize;
+    if (textFont) tmpPro.font = textFont;
+    rect.position = referenceCamera.WorldToScreenPoint(target.position);
+
+    // Makes sure this is destroyed after the duration finishes.
+    Destroy(textObj, duration);
+
+    // Parent the generated text object to the canvas.
+    textObj.transform.SetParent(instance.damageTextCanvas.transform);
+
+    // Pan the text upwards and fade it away over time.
+    WaitForEndOfFrame w = new WaitForEndOfFrame();
+
+    float t = 0;
+    float yOffset = 0;
+        //while (t < duration)
+        //{
+        //    // Wait for a frame and update the time.
+        //    yield return w;
+        //    t += Time.deltaTime;
+
+        //    // Fade the text to the right alpha value.
+        //    tmpPro.color = new Color(tmpPro.color.r, tmpPro.color.g, tmpPro.color.b, 1 - t / duration);
+
+        //    // Pan the text upwards.
+        //    yOffset += speed * Time.deltaTime;
+        //    rect.position = referenceCamera.WorldToScreenPoint(target.position + new Vector3(0, yOffset));
+        //}
+
+        while (t < duration)
+        {
+            // Wait for a frame and update the time.
+            yield return w;
+            t += Time.deltaTime;
+
+            if (tmpPro == null || rect == null) yield break; // Dừng Coroutine nếu object đã bị hủy
+
+            // Fade the text to the right alpha value.
+            tmpPro.color = new Color(tmpPro.color.r, tmpPro.color.g, tmpPro.color.b, 1 - t / duration);
+
+            // Pan the text upwards.
+            yOffset += speed * Time.deltaTime;
+
+            if (referenceCamera != null && target != null)
+            {
+                rect.position = referenceCamera.WorldToScreenPoint(target.position + new Vector3(0, yOffset));
+            }
+            else
+            {
+                yield break; // Dừng nếu referenceCamera hoặc target bị hủy
+            }
+        }
+
+
+    }
+
+    public static void GenerateFloatingText(string text, Transform target, float duration = 1f, float speed = 1f)
+    {
+        // if the canvas is not set,  end the function so we don't 
+        // generate any floating text.
+        if (!instance.damageTextCanvas)
+        {
+            return;
+        }
+
+        // Find a relevant camera that we can use to convert the world
+        // position to screen position.
+        if (!instance.referenceCamera)
+        {
+            instance.referenceCamera = Camera.main;
+        }
+
+        instance.StartCoroutine(instance.GenerateFloatingTextCoroutine(text, target, duration, speed));
+    }
     public void ChangeState(GameState newState)
     {
         currentState = newState;

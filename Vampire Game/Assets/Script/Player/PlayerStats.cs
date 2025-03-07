@@ -109,6 +109,8 @@ public class PlayerStats : MonoBehaviour
     }
     #endregion
 
+    public ParticleSystem damageEffect;
+
     [Header("Experience/Level")]
     public int experience = 0;
     public int level = 1;
@@ -231,22 +233,7 @@ public class PlayerStats : MonoBehaviour
         levelText.text = "LV " + level.ToString();
     }
 
-    public void TakeDamage(float dmg)
-    {
-        if (!isInvincible)
-        {
-            CurrentHealth -= dmg;
-
-            invincibilityTime = invincibilityDuration;
-            isInvincible = true;
-
-            if (CurrentHealth < 0)
-            {
-                Kill();
-            }
-            UpdateHealthBar();
-        }
-    }
+ 
     
     void UpdateHealthBar()
     {
@@ -254,6 +241,26 @@ public class PlayerStats : MonoBehaviour
         healthBar.fillAmount = currentHealth / characterData.MaxHealth;
     }
 
+    public void TakeDamage(float dmg)
+    {
+        // if the player is not currently invincible, reduce health and start invincibility
+        if (!isInvincible)
+        {
+            CurrentHealth -= dmg;
+
+            if (damageEffect) Instantiate(damageEffect, transform.position, Quaternion.identity);
+
+
+            invincibilityTime = invincibilityDuration;
+            isInvincible = true;
+            // if the player's health is less than 0, kill the player
+            if (CurrentHealth <= 0)
+            {
+                Kill();
+            }
+            UpdateHealthBar();
+        }
+    }
     public void Kill()
     {
         if (!GameManager.instance.isGameOver)

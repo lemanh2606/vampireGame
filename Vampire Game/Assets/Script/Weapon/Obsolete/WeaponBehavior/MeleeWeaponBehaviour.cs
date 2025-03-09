@@ -47,7 +47,7 @@ public class MeleeWeaponBehaviour : MonoBehaviour
         {
             if (col.gameObject.TryGetComponent(out BreakableProps breakable))
             {
-                breakable.TakeDamege(GetCurrentDamage());
+                breakable.TakeDamage(GetCurrentDamage());
             }
         }
     }

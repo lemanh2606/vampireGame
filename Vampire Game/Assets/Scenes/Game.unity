@@ -7796,6 +7796,7 @@ GameObject:
   - component: {fileID: 1580054355}
   - component: {fileID: 1580054356}
   - component: {fileID: 1580054357}
+  - component: {fileID: 1580054358}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -8010,6 +8011,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b50add03b5e1060469fed19e97477183, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  baseStats:
+    maxHealth: 0
+    recovery: 0
+    moveSpeed: 0
+    might: 0
+    speed: 0
+    magnet: 0
+  actualStats:
+    maxHealth: 0
+    recovery: 0
+    moveSpeed: 0
+    might: 0
+    speed: 0
+    magnet: 0
   damageEffect: {fileID: 2889893103020790820, guid: 40724345f7d73854995e1e6aa460e1d4, type: 3}
   experience: 0
   level: 1
@@ -8034,7 +8049,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1580054347}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cd8c2410bfa6f0d4b8b6139b3f9c0731, type: 3}
   m_Name: 
@@ -8114,6 +8129,51 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 381d77eb5e26b0543ace921f96bc0eb5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1580054358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1580054347}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c6850f5d2bd2ac4fa7ce846eee4a81f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weaponSlots:
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  passiveSlots:
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  - item: {fileID: 0}
+    image: {fileID: 0}
+  availableWeapons:
+  - {fileID: 11400000, guid: 81f6ca3daedbf8a4dabe523289518f06, type: 2}
+  availablePassives:
+  - {fileID: 11400000, guid: dd46f4f69e5119d4d8f1f7d0259a32c6, type: 2}
+  - {fileID: 11400000, guid: 681d7d8e4362cd7459b735ad9c8b8579, type: 2}
+  - {fileID: 11400000, guid: 34008dc403c55964c910b8f292cbdf02, type: 2}
+  upgradeUIOptions: []
 --- !u!1 &1597342342
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\PRU212\\Assaignment\\Vampire Survivors\\",
+  "WorkspaceRootPath": "D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C10C831-6474-04D8-83D7-C65B8945540A}|Assembly-CSharp.csproj|e:\\pru212\\assaignment\\vampire survivors\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C10C831-6474-04D8-83D7-C65B8945540A}|Assembly-CSharp.csproj|d:\\a pru\\game2\\vampiregame\\vampire survivors\\assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C10C831-6474-04D8-83D7-C65B8945540A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C10C831-6474-04D8-83D7-C65B8945540A}|Assembly-CSharp.csproj|D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C10C831-6474-04D8-83D7-C65B8945540A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C10C831-6474-04D8-83D7-C65B8945540A}|Assembly-CSharp.csproj|D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\assets\\scripts\\utills\\animatedobjectdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C10C831-6474-04D8-83D7-C65B8945540A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utills\\animatedobjectdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C10C831-6474-04D8-83D7-C65B8945540A}|Assembly-CSharp.csproj|D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C10C831-6474-04D8-83D7-C65B8945540A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "E:\\PRU212\\Assaignment\\Vampire Survivors\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "E:\\PRU212\\Assaignment\\Vampire Survivors\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxQAAAAJAAAAAAAAAA==",
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "ToolTip": "D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:22:35.12Z",
+              "WhenOpened": "2025-03-11T09:50:36.031Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimatedObjectDestroy.cs",
+              "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\Assets\\Scripts\\Utills\\AnimatedObjectDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utills\\AnimatedObjectDestroy.cs",
+              "ToolTip": "D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\Assets\\Scripts\\Utills\\AnimatedObjectDestroy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utills\\AnimatedObjectDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:33:30.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:45:01.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\A pru\\game2\\vampireGame\\Vampire Survivors\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:53:47.053Z"
             }
           ]
         }

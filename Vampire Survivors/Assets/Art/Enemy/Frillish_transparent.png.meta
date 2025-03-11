@@ -1,0 +1,3653 @@
+fileFormatVersion: 2
+guid: 72cef15200bc21b4bb5aa07749edca56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 462303628992523343
+    second: Frillish_transparent_0
+  - first:
+      213: 2455560819666842330
+    second: Frillish_transparent_1
+  - first:
+      213: -6707619769028516836
+    second: Frillish_transparent_2
+  - first:
+      213: -7257800558484249548
+    second: Frillish_transparent_3
+  - first:
+      213: 946634628366645743
+    second: Frillish_transparent_4
+  - first:
+      213: -3994857741107337223
+    second: Frillish_transparent_5
+  - first:
+      213: 6634678211945936740
+    second: Frillish_transparent_6
+  - first:
+      213: 867408737975651353
+    second: Frillish_transparent_7
+  - first:
+      213: -370590502671566613
+    second: Frillish_transparent_8
+  - first:
+      213: -526175918091084329
+    second: Frillish_transparent_9
+  - first:
+      213: -1122743563993906251
+    second: Frillish_transparent_10
+  - first:
+      213: -5826809583711623768
+    second: Frillish_transparent_11
+  - first:
+      213: -8351406564891255648
+    second: Frillish_transparent_12
+  - first:
+      213: 1629000385479195109
+    second: Frillish_transparent_13
+  - first:
+      213: -3930152925926046279
+    second: Frillish_transparent_14
+  - first:
+      213: -1826239957711955696
+    second: Frillish_transparent_15
+  - first:
+      213: -5453205867490174414
+    second: Frillish_transparent_16
+  - first:
+      213: 1326707814844314490
+    second: Frillish_transparent_17
+  - first:
+      213: 2635876272700011837
+    second: Frillish_transparent_18
+  - first:
+      213: 2588717608360508710
+    second: Frillish_transparent_19
+  - first:
+      213: 5846141943906770707
+    second: Frillish_transparent_20
+  - first:
+      213: -3336424450304977963
+    second: Frillish_transparent_21
+  - first:
+      213: 7509633705510540005
+    second: Frillish_transparent_22
+  - first:
+      213: -531299888382881969
+    second: Frillish_transparent_23
+  - first:
+      213: -4147096014385869886
+    second: Frillish_transparent_24
+  - first:
+      213: -6322911364410031237
+    second: Frillish_transparent_25
+  - first:
+      213: -8637616592135707205
+    second: Frillish_transparent_26
+  - first:
+      213: -3169982206997026001
+    second: Frillish_transparent_27
+  - first:
+      213: 3947479595770527195
+    second: Frillish_transparent_28
+  - first:
+      213: 3769198906979990142
+    second: Frillish_transparent_29
+  - first:
+      213: 2611394867559918020
+    second: Frillish_transparent_30
+  - first:
+      213: -6514944376944260383
+    second: Frillish_transparent_31
+  - first:
+      213: 1798465686983721444
+    second: Frillish_transparent_32
+  - first:
+      213: 7132227546006003668
+    second: Frillish_transparent_33
+  - first:
+      213: -5639491214890943543
+    second: Frillish_transparent_34
+  - first:
+      213: 7658694664601194026
+    second: Frillish_transparent_35
+  - first:
+      213: 5306047047155702710
+    second: Frillish_transparent_36
+  - first:
+      213: -3880033815150996503
+    second: Frillish_transparent_37
+  - first:
+      213: -5898418275530947007
+    second: Frillish_transparent_38
+  - first:
+      213: -1884007070881880640
+    second: Frillish_transparent_39
+  - first:
+      213: -5029023579037643735
+    second: Frillish_transparent_40
+  - first:
+      213: -5748543231713228960
+    second: Frillish_transparent_41
+  - first:
+      213: -9131991006309898661
+    second: Frillish_transparent_42
+  - first:
+      213: -7964789596908721117
+    second: Frillish_transparent_43
+  - first:
+      213: 5328634141885164876
+    second: Frillish_transparent_44
+  - first:
+      213: -8542911433861130854
+    second: Frillish_transparent_45
+  - first:
+      213: -3644651410313136372
+    second: Frillish_transparent_46
+  - first:
+      213: -4918060831792092983
+    second: Frillish_transparent_47
+  - first:
+      213: 3297928213187503567
+    second: Frillish_transparent_48
+  - first:
+      213: 7444206978454210977
+    second: Frillish_transparent_49
+  - first:
+      213: -1714129937378126304
+    second: Frillish_transparent_50
+  - first:
+      213: -54551270779345743
+    second: Frillish_transparent_51
+  - first:
+      213: 2654646808813123757
+    second: Frillish_transparent_52
+  - first:
+      213: -216798803342595597
+    second: Frillish_transparent_53
+  - first:
+      213: 3635176577760287196
+    second: Frillish_transparent_54
+  - first:
+      213: -1436211402565006163
+    second: Frillish_transparent_55
+  - first:
+      213: -3651437059496226673
+    second: Frillish_transparent_56
+  - first:
+      213: -2344447968719704297
+    second: Frillish_transparent_57
+  - first:
+      213: 3485605938100502063
+    second: Frillish_transparent_58
+  - first:
+      213: 6686200267224593611
+    second: Frillish_transparent_59
+  - first:
+      213: -2111746322605619458
+    second: Frillish_transparent_60
+  - first:
+      213: -1944398104953845200
+    second: Frillish_transparent_61
+  - first:
+      213: -648479517667193318
+    second: Frillish_transparent_62
+  - first:
+      213: -6198581599456003111
+    second: Frillish_transparent_63
+  - first:
+      213: -4701787693129702659
+    second: Frillish_transparent_64
+  - first:
+      213: -3388296190699272348
+    second: Frillish_transparent_65
+  - first:
+      213: 4346178016607377966
+    second: Frillish_transparent_66
+  - first:
+      213: 373108110502777976
+    second: Frillish_transparent_67
+  - first:
+      213: 4681432395747556212
+    second: Frillish_transparent_68
+  - first:
+      213: 2066208140887486670
+    second: Frillish_transparent_69
+  - first:
+      213: -1169078946178523837
+    second: Frillish_transparent_70
+  - first:
+      213: -4529531258915373976
+    second: Frillish_transparent_71
+  - first:
+      213: 3019919290444933978
+    second: Frillish_transparent_72
+  - first:
+      213: 7556858162850068707
+    second: Frillish_transparent_73
+  - first:
+      213: 2800641092400997723
+    second: Frillish_transparent_74
+  - first:
+      213: -848855588431080330
+    second: Frillish_transparent_75
+  - first:
+      213: 3639772354583450397
+    second: Frillish_transparent_76
+  - first:
+      213: -8352256604776606973
+    second: Frillish_transparent_77
+  - first:
+      213: -8468342109112816346
+    second: Frillish_transparent_78
+  - first:
+      213: -6848891607534923791
+    second: Frillish_transparent_79
+  - first:
+      213: 7204986464424891602
+    second: Frillish_transparent_80
+  - first:
+      213: 6983489740269194879
+    second: Frillish_transparent_81
+  - first:
+      213: 8013965807261311477
+    second: Frillish_transparent_82
+  - first:
+      213: 1807293555348453737
+    second: Frillish_transparent_83
+  - first:
+      213: 3299791673178942215
+    second: Frillish_transparent_84
+  - first:
+      213: -3685243778347140646
+    second: Frillish_transparent_85
+  - first:
+      213: -3813068263384879376
+    second: Frillish_transparent_86
+  - first:
+      213: 4460054774938731736
+    second: Frillish_transparent_87
+  - first:
+      213: 2887908017289385421
+    second: Frillish_transparent_88
+  - first:
+      213: 1933706415123579264
+    second: Frillish_transparent_89
+  - first:
+      213: 7135261995500125334
+    second: Frillish_transparent_90
+  - first:
+      213: -5896022273952660731
+    second: Frillish_transparent_91
+  - first:
+      213: 2617785677334770482
+    second: Frillish_transparent_92
+  - first:
+      213: -933505400402015109
+    second: Frillish_transparent_93
+  - first:
+      213: 8787090261385546188
+    second: Frillish_transparent_94
+  - first:
+      213: 6041933502238004075
+    second: Frillish_transparent_95
+  - first:
+      213: -7731834449489280429
+    second: Frillish_transparent_96
+  - first:
+      213: -8510672510144962421
+    second: Frillish_transparent_97
+  - first:
+      213: 6623395634115700568
+    second: Frillish_transparent_98
+  - first:
+      213: -2163714506587837656
+    second: Frillish_transparent_99
+  - first:
+      213: -5108174558614081265
+    second: Frillish_transparent_100
+  - first:
+      213: -108939023826410103
+    second: Frillish_transparent_101
+  - first:
+      213: -3989968780155101413
+    second: Frillish_transparent_102
+  - first:
+      213: 4078893116660195771
+    second: Frillish_transparent_103
+  - first:
+      213: 1074177303996976877
+    second: Frillish_transparent_104
+  - first:
+      213: -8807989799585298845
+    second: Frillish_transparent_105
+  - first:
+      213: -2071350705606312120
+    second: Frillish_transparent_106
+  - first:
+      213: -1594532839806347277
+    second: Frillish_transparent_107
+  - first:
+      213: 1649221945004217483
+    second: Frillish_transparent_108
+  - first:
+      213: -3007751199968008192
+    second: Frillish_transparent_109
+  - first:
+      213: 5362661228003164108
+    second: Frillish_transparent_110
+  - first:
+      213: 5192556625338602243
+    second: Frillish_transparent_111
+  - first:
+      213: 6479522255301313389
+    second: Frillish_transparent_112
+  - first:
+      213: -6594284327307609065
+    second: Frillish_transparent_113
+  - first:
+      213: -4699231995688742046
+    second: Frillish_transparent_114
+  - first:
+      213: -9165350036330571019
+    second: Frillish_transparent_115
+  - first:
+      213: -1723382320756093184
+    second: Frillish_transparent_116
+  - first:
+      213: 1676507262425023608
+    second: Frillish_transparent_117
+  - first:
+      213: -5341658360504064697
+    second: Frillish_transparent_118
+  - first:
+      213: -3208307485730946515
+    second: Frillish_transparent_119
+  - first:
+      213: 6526690610903995840
+    second: Frillish_transparent_120
+  - first:
+      213: -412105717533852908
+    second: Frillish_transparent_121
+  - first:
+      213: -6109593749776620184
+    second: Frillish_transparent_122
+  - first:
+      213: -835721055262277877
+    second: Frillish_transparent_123
+  - first:
+      213: -3420032526550015026
+    second: Frillish_transparent_124
+  - first:
+      213: -2978087997065647902
+    second: Frillish_transparent_125
+  - first:
+      213: 9186007767569513049
+    second: Frillish_transparent_126
+  - first:
+      213: 2848953264613034518
+    second: Frillish_transparent_127
+  - first:
+      213: -6905553654909139137
+    second: Frillish_transparent_128
+  - first:
+      213: 6076834513720041603
+    second: Frillish_transparent_129
+  - first:
+      213: 6090175946967388927
+    second: Frillish_transparent_130
+  - first:
+      213: -6936807671594767425
+    second: Frillish_transparent_131
+  - first:
+      213: 6328673179528911544
+    second: Frillish_transparent_132
+  - first:
+      213: 5206227701615768243
+    second: Frillish_transparent_133
+  - first:
+      213: -5340760018030703477
+    second: Frillish_transparent_134
+  - first:
+      213: -4157636562626134512
+    second: Frillish_transparent_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frillish_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 522
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c297083be6a6600800000000000000
+      internalID: 462303628992523343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 523
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2fb9c2e87e31220800000000000000
+      internalID: 2455560819666842330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 523
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14eaaacb5fb9e2a0800000000000000
+      internalID: -6707619769028516836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 521
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4342ae478dc174b90800000000000000
+      internalID: -7257800558484249548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 522
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9b0e3dd2f132d00800000000000000
+      internalID: 946634628366645743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 526
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7e315dc0a6f88c0800000000000000
+      internalID: -3994857741107337223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 517
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467bf068eac131c50800000000000000
+      internalID: 6634678211945936740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 526
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ccb16c6a7a90c00800000000000000
+      internalID: 867408737975651353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 452
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8b02bb6e56bdaf0800000000000000
+      internalID: -370590502671566613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 494
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd0d05ac5a2b8f0800000000000000
+      internalID: -526175918091084329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 480
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b389465da63b60f0800000000000000
+      internalID: -1122743563993906251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 482
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5e60d2e83032fa0800000000000000
+      internalID: -5826809583711623768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 482
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac9ac41af7d91c80800000000000000
+      internalID: -8351406564891255648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 482
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e93673483f5b9610800000000000000
+      internalID: 1629000385479195109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 482
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b547399cba4579c0800000000000000
+      internalID: -3930152925926046279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01954fd2f64e7a6e0800000000000000
+      internalID: -1826239957711955696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a1c25e7225254b0800000000000000
+      internalID: -5453205867490174414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 482
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73b7887ab9696210800000000000000
+      internalID: 1326707814844314490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d353a2a2183849420800000000000000
+      internalID: 2635876272700011837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 482
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d702ef2f8fce320800000000000000
+      internalID: 2588717608360508710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 482
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f1311bf1ba12150800000000000000
+      internalID: 5846141943906770707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 482
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3d4abb3a3a2b1d0800000000000000
+      internalID: -3336424450304977963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 482
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e291424114973860800000000000000
+      internalID: 7509633705510540005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 480
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fcbb3019170a8f0800000000000000
+      internalID: -531299888382881969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 482
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb871da52e8276c0800000000000000
+      internalID: -4147096014385869886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 482
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b734f024d918048a0800000000000000
+      internalID: -6322911364410031237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 480
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb52bb73975012880800000000000000
+      internalID: -8637616592135707205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 482
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b22af5af5f104d0800000000000000
+      internalID: -3169982206997026001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 480
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd310817c348c630800000000000000
+      internalID: 3947479595770527195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 482
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a35529f62ee4430800000000000000
+      internalID: 3769198906979990142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ef29dbc98d3420800000000000000
+      internalID: 2611394867559918020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea0fc85b944695a0800000000000000
+      internalID: -6514944376944260383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 482
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1c46d730f65f810800000000000000
+      internalID: 1798465686983721444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 482
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df91f83a23caf260800000000000000
+      internalID: 7132227546006003668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 482
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb3d7e8e908cb1b0800000000000000
+      internalID: -5639491214890943543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 482
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ecbbe4836294a60800000000000000
+      internalID: 7658694664601194026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 482
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbd93f3dadd2a940800000000000000
+      internalID: 5306047047155702710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3db6b6dc9572ac0800000000000000
+      internalID: -3880033815150996503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1464e4e54db942ea0800000000000000
+      internalID: -5898418275530947007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5e2c90d89aad5e0800000000000000
+      internalID: -1884007070881880640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cc56423b1553ab0800000000000000
+      internalID: -5029023579037643735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 482
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067c1c943621930b0800000000000000
+      internalID: -5748543231713228960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5626d82096a44180800000000000000
+      internalID: -9131991006309898661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c67859f02677190800000000000000
+      internalID: -7964789596908721117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 482
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d651d058c13f940800000000000000
+      internalID: 5328634141885164876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 482
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95951d205b717980800000000000000
+      internalID: -8542911433861130854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 482
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07b82e3ad89b6dc0800000000000000
+      internalID: -3644651410313136372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 482
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c825410bb98fbbb0800000000000000
+      internalID: -4918060831792092983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 482
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5a7c99c3894cd20800000000000000
+      internalID: 3297928213187503567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a94f394ec22f4760800000000000000
+      internalID: 7444206978454210977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026d6bf57ef2638e0800000000000000
+      internalID: -1714129937378126304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4a62388e13e3ff0800000000000000
+      internalID: -54551270779345743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 482
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da83e6b253337d420800000000000000
+      internalID: 2654646808813123757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 468
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9e80313a6cdfcf0800000000000000
+      internalID: -216798803342595597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 467
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9d83566ddb27230800000000000000
+      internalID: 3635176577760287196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 446
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac4fb7b65d811ce0800000000000000
+      internalID: -1436211402565006163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 446
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80d70d275d735dc0800000000000000
+      internalID: -3651437059496226673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 448
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f631e6ef8d67fd0800000000000000
+      internalID: -2344447968719704297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 470
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef877122c5f5030800000000000000
+      internalID: 3485605938100502063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 448
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc43b01d7b72acc50800000000000000
+      internalID: 6686200267224593611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 449
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6ca5978e191b2e0800000000000000
+      internalID: -2111746322605619458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 379
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a8844b93c1405e0800000000000000
+      internalID: -1944398104953845200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 379
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e845180532007f0800000000000000
+      internalID: -648479517667193318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 382
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbf62570e63af9a0800000000000000
+      internalID: -6198581599456003111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 385
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df263b51105efbeb0800000000000000
+      internalID: -4701787693129702659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 433
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4678f87019a5af0d0800000000000000
+      internalID: -3388296190699272348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 429
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a9e7a01e9b05c30800000000000000
+      internalID: 4346178016607377966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 428
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874d55589db8d2500800000000000000
+      internalID: 373108110502777976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 433
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bf98ce5f9c7f040800000000000000
+      internalID: 4681432395747556212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 397
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec07e9d5b55acac10800000000000000
+      internalID: 2066208140887486670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_70
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 402
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d14aa74e896cfe0800000000000000
+      internalID: -1169078946178523837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_71
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 400
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c3259815fd321c0800000000000000
+      internalID: -4529531258915373976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_72
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 394
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5be15d2898e8e920800000000000000
+      internalID: 3019919290444933978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_73
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 370
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e870be067a5fd860800000000000000
+      internalID: 7556858162850068707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_74
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 371
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b556cef2c30edd620800000000000000
+      internalID: 2800641092400997723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_75
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 371
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674d5f9f6524834f0800000000000000
+      internalID: -848855588431080330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_76
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 369
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13db321ca1138230800000000000000
+      internalID: 3639772354583450397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_77
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 385
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303516fbed2d61c80800000000000000
+      internalID: -8352256604776606973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_78
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 385
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d29dd08b76a7a80800000000000000
+      internalID: -8468342109112816346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff0ab3be59d3f0a0800000000000000
+      internalID: -6848891607534923791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 307
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d41b8704014df360800000000000000
+      internalID: 7204986464424891602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 306
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e845d2be65ae060800000000000000
+      internalID: 6983489740269194879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_82
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 306
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1efef1173573f60800000000000000
+      internalID: 8013965807261311477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_83
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 302
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969b563c9ebc41910800000000000000
+      internalID: 1807293555348453737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_84
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 300
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b6f903b073bcd20800000000000000
+      internalID: 3299791673178942215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_85
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 354
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad976e01f426bdcc0800000000000000
+      internalID: -3685243778347140646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_86
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 350
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fee0a0fd92451bc0800000000000000
+      internalID: -3813068263384879376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_87
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 351
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4020bff2c45ed30800000000000000
+      internalID: 4460054774938731736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_88
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 354
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5598a7a09e31820800000000000000
+      internalID: 2887908017289385421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_89
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 351
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081c5554db7e5da10800000000000000
+      internalID: 1933706415123579264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_90
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 319
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c312d0bfa850360800000000000000
+      internalID: 7135261995500125334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_91
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 342
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503c245fafe1d2ea0800000000000000
+      internalID: -5896022273952660731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_92
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 293
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233f4a3343e345420800000000000000
+      internalID: 2617785677334770482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_93
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 305
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c0125c8c58b03f0800000000000000
+      internalID: -933505400402015109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_94
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 295
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc90e27690402f970800000000000000
+      internalID: 8787090261385546188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_95
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 292
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b639d6d328249d350800000000000000
+      internalID: 6041933502238004075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3524010888103b490800000000000000
+      internalID: -7731834449489280429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 223
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80a029817404e980800000000000000
+      internalID: -8510672510144962421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_98
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 223
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857e65aac370beb50800000000000000
+      internalID: 6623395634115700568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_99
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 221
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82be87fbe11f8f1e0800000000000000
+      internalID: -2163714506587837656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_100
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 222
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01be1f9d4e1c19b0800000000000000
+      internalID: -5108174558614081265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_101
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 274
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98526a6f888fc7ef0800000000000000
+      internalID: -108939023826410103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_102
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 274
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fd4f1c888c0a8c0800000000000000
+      internalID: -3989968780155101413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_103
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 273
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1215fbda32b9830800000000000000
+      internalID: 4078893116660195771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_104
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 273
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec686119e38ee00800000000000000
+      internalID: 1074177303996976877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_105
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 274
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366447aa1fbb3c580800000000000000
+      internalID: -8807989799585298845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_106
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 260
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fb41bf1851143e0800000000000000
+      internalID: -2071350705606312120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_107
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7d5a494d41fd9e0800000000000000
+      internalID: -1594532839806347277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_108
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 256
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8451cbfe9633e610800000000000000
+      internalID: 1649221945004217483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_109
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 260
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008e62928325246d0800000000000000
+      internalID: -3007751199968008192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_110
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 228
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf73e969fffb6a40800000000000000
+      internalID: 5362661228003164108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_111
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 231
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30398694dbaaf0840800000000000000
+      internalID: 5192556625338602243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_112
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 230
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6309754923ebe950800000000000000
+      internalID: 6479522255301313389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_113
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 226
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c77e2a7556c74a0800000000000000
+      internalID: -6594284327307609065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26392d3c569f8ceb0800000000000000
+      internalID: -4699231995688742046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_115
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 199
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa176ab3b22ec080800000000000000
+      internalID: -9165350036330571019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_116
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 200
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f052ff8e05518e0800000000000000
+      internalID: -1723382320756093184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_117
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 200
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874c4300976244710800000000000000
+      internalID: 1676507262425023608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_118
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 198
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745e8aeb50e9ed5b0800000000000000
+      internalID: -5341658360504064697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_119
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 217
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22c7ce075dc973d0800000000000000
+      internalID: -3208307485730946515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_120
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 217
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c55fcdd786739a50800000000000000
+      internalID: 6526690610903995840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_121
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 182
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bbc788808e74af0800000000000000
+      internalID: -412105717533852908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_122
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 179
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8652e96cadc563ba0800000000000000
+      internalID: -6109593749776620184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_123
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 180
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ff6c9c02ce664f0800000000000000
+      internalID: -835721055262277877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_124
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 181
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec364b6898a9980d0800000000000000
+      internalID: -3420032526550015026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_125
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 180
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e82c09ceb4bba6d0800000000000000
+      internalID: -2978087997065647902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ab5f125614b7f70800000000000000
+      internalID: 9186007767569513049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_127
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 79
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a03f656e3898720800000000000000
+      internalID: 2848953264613034518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_128
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 82
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f378dbdb98b8a20a0800000000000000
+      internalID: -6905553654909139137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_129
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 85
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ed153bc0455450800000000000000
+      internalID: 6076834513720041603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff29e92b1c6a48450800000000000000
+      internalID: 6090175946967388927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_131
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbba36bec228bbf90800000000000000
+      internalID: -6936807671594767425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_132
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 6
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8badc5dd9b6f3d750800000000000000
+      internalID: 6328673179528911544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_133
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 6
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b23b96c28c304840800000000000000
+      internalID: 5206227701615768243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_134
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ccba66f0fc1e5b0800000000000000
+      internalID: -5340760018030703477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frillish_transparent_135
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e3e7b039b1d46c0800000000000000
+      internalID: -4157636562626134512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frillish_transparent_0: 462303628992523343
+      Frillish_transparent_1: 2455560819666842330
+      Frillish_transparent_10: -1122743563993906251
+      Frillish_transparent_100: -5108174558614081265
+      Frillish_transparent_101: -108939023826410103
+      Frillish_transparent_102: -3989968780155101413
+      Frillish_transparent_103: 4078893116660195771
+      Frillish_transparent_104: 1074177303996976877
+      Frillish_transparent_105: -8807989799585298845
+      Frillish_transparent_106: -2071350705606312120
+      Frillish_transparent_107: -1594532839806347277
+      Frillish_transparent_108: 1649221945004217483
+      Frillish_transparent_109: -3007751199968008192
+      Frillish_transparent_11: -5826809583711623768
+      Frillish_transparent_110: 5362661228003164108
+      Frillish_transparent_111: 5192556625338602243
+      Frillish_transparent_112: 6479522255301313389
+      Frillish_transparent_113: -6594284327307609065
+      Frillish_transparent_114: -4699231995688742046
+      Frillish_transparent_115: -9165350036330571019
+      Frillish_transparent_116: -1723382320756093184
+      Frillish_transparent_117: 1676507262425023608
+      Frillish_transparent_118: -5341658360504064697
+      Frillish_transparent_119: -3208307485730946515
+      Frillish_transparent_12: -8351406564891255648
+      Frillish_transparent_120: 6526690610903995840
+      Frillish_transparent_121: -412105717533852908
+      Frillish_transparent_122: -6109593749776620184
+      Frillish_transparent_123: -835721055262277877
+      Frillish_transparent_124: -3420032526550015026
+      Frillish_transparent_125: -2978087997065647902
+      Frillish_transparent_126: 9186007767569513049
+      Frillish_transparent_127: 2848953264613034518
+      Frillish_transparent_128: -6905553654909139137
+      Frillish_transparent_129: 6076834513720041603
+      Frillish_transparent_13: 1629000385479195109
+      Frillish_transparent_130: 6090175946967388927
+      Frillish_transparent_131: -6936807671594767425
+      Frillish_transparent_132: 6328673179528911544
+      Frillish_transparent_133: 5206227701615768243
+      Frillish_transparent_134: -5340760018030703477
+      Frillish_transparent_135: -4157636562626134512
+      Frillish_transparent_14: -3930152925926046279
+      Frillish_transparent_15: -1826239957711955696
+      Frillish_transparent_16: -5453205867490174414
+      Frillish_transparent_17: 1326707814844314490
+      Frillish_transparent_18: 2635876272700011837
+      Frillish_transparent_19: 2588717608360508710
+      Frillish_transparent_2: -6707619769028516836
+      Frillish_transparent_20: 5846141943906770707
+      Frillish_transparent_21: -3336424450304977963
+      Frillish_transparent_22: 7509633705510540005
+      Frillish_transparent_23: -531299888382881969
+      Frillish_transparent_24: -4147096014385869886
+      Frillish_transparent_25: -6322911364410031237
+      Frillish_transparent_26: -8637616592135707205
+      Frillish_transparent_27: -3169982206997026001
+      Frillish_transparent_28: 3947479595770527195
+      Frillish_transparent_29: 3769198906979990142
+      Frillish_transparent_3: -7257800558484249548
+      Frillish_transparent_30: 2611394867559918020
+      Frillish_transparent_31: -6514944376944260383
+      Frillish_transparent_32: 1798465686983721444
+      Frillish_transparent_33: 7132227546006003668
+      Frillish_transparent_34: -5639491214890943543
+      Frillish_transparent_35: 7658694664601194026
+      Frillish_transparent_36: 5306047047155702710
+      Frillish_transparent_37: -3880033815150996503
+      Frillish_transparent_38: -5898418275530947007
+      Frillish_transparent_39: -1884007070881880640
+      Frillish_transparent_4: 946634628366645743
+      Frillish_transparent_40: -5029023579037643735
+      Frillish_transparent_41: -5748543231713228960
+      Frillish_transparent_42: -9131991006309898661
+      Frillish_transparent_43: -7964789596908721117
+      Frillish_transparent_44: 5328634141885164876
+      Frillish_transparent_45: -8542911433861130854
+      Frillish_transparent_46: -3644651410313136372
+      Frillish_transparent_47: -4918060831792092983
+      Frillish_transparent_48: 3297928213187503567
+      Frillish_transparent_49: 7444206978454210977
+      Frillish_transparent_5: -3994857741107337223
+      Frillish_transparent_50: -1714129937378126304
+      Frillish_transparent_51: -54551270779345743
+      Frillish_transparent_52: 2654646808813123757
+      Frillish_transparent_53: -216798803342595597
+      Frillish_transparent_54: 3635176577760287196
+      Frillish_transparent_55: -1436211402565006163
+      Frillish_transparent_56: -3651437059496226673
+      Frillish_transparent_57: -2344447968719704297
+      Frillish_transparent_58: 3485605938100502063
+      Frillish_transparent_59: 6686200267224593611
+      Frillish_transparent_6: 6634678211945936740
+      Frillish_transparent_60: -2111746322605619458
+      Frillish_transparent_61: -1944398104953845200
+      Frillish_transparent_62: -648479517667193318
+      Frillish_transparent_63: -6198581599456003111
+      Frillish_transparent_64: -4701787693129702659
+      Frillish_transparent_65: -3388296190699272348
+      Frillish_transparent_66: 4346178016607377966
+      Frillish_transparent_67: 373108110502777976
+      Frillish_transparent_68: 4681432395747556212
+      Frillish_transparent_69: 2066208140887486670
+      Frillish_transparent_7: 867408737975651353
+      Frillish_transparent_70: -1169078946178523837
+      Frillish_transparent_71: -4529531258915373976
+      Frillish_transparent_72: 3019919290444933978
+      Frillish_transparent_73: 7556858162850068707
+      Frillish_transparent_74: 2800641092400997723
+      Frillish_transparent_75: -848855588431080330
+      Frillish_transparent_76: 3639772354583450397
+      Frillish_transparent_77: -8352256604776606973
+      Frillish_transparent_78: -8468342109112816346
+      Frillish_transparent_79: -6848891607534923791
+      Frillish_transparent_8: -370590502671566613
+      Frillish_transparent_80: 7204986464424891602
+      Frillish_transparent_81: 6983489740269194879
+      Frillish_transparent_82: 8013965807261311477
+      Frillish_transparent_83: 1807293555348453737
+      Frillish_transparent_84: 3299791673178942215
+      Frillish_transparent_85: -3685243778347140646
+      Frillish_transparent_86: -3813068263384879376
+      Frillish_transparent_87: 4460054774938731736
+      Frillish_transparent_88: 2887908017289385421
+      Frillish_transparent_89: 1933706415123579264
+      Frillish_transparent_9: -526175918091084329
+      Frillish_transparent_90: 7135261995500125334
+      Frillish_transparent_91: -5896022273952660731
+      Frillish_transparent_92: 2617785677334770482
+      Frillish_transparent_93: -933505400402015109
+      Frillish_transparent_94: 8787090261385546188
+      Frillish_transparent_95: 6041933502238004075
+      Frillish_transparent_96: -7731834449489280429
+      Frillish_transparent_97: -8510672510144962421
+      Frillish_transparent_98: 6623395634115700568
+      Frillish_transparent_99: -2163714506587837656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

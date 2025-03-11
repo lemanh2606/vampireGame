@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: de0fc22d30c725547b99b1f5e54f25bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8370641714384715576
+    second: Togekiss_transparent_0
+  - first:
+      213: -8302162276683188305
+    second: Togekiss_transparent_1
+  - first:
+      213: 6485749875629394114
+    second: Togekiss_transparent_2
+  - first:
+      213: -2777399879992613758
+    second: Togekiss_transparent_3
+  - first:
+      213: -3206302269289400234
+    second: Togekiss_transparent_4
+  - first:
+      213: 7759151069538523155
+    second: Togekiss_transparent_5
+  - first:
+      213: 2938748506447919612
+    second: Togekiss_transparent_6
+  - first:
+      213: 4357015662375702678
+    second: Togekiss_transparent_7
+  - first:
+      213: 1532722587549076808
+    second: Togekiss_transparent_8
+  - first:
+      213: 7292876335230738509
+    second: Togekiss_transparent_9
+  - first:
+      213: -1721884947320821086
+    second: Togekiss_transparent_10
+  - first:
+      213: -2116682503854462216
+    second: Togekiss_transparent_11
+  - first:
+      213: 8421609762242498735
+    second: Togekiss_transparent_12
+  - first:
+      213: 7902225853588990622
+    second: Togekiss_transparent_13
+  - first:
+      213: 5549873663251058221
+    second: Togekiss_transparent_14
+  - first:
+      213: -494493520206040717
+    second: Togekiss_transparent_15
+  - first:
+      213: 4679163479500184055
+    second: Togekiss_transparent_16
+  - first:
+      213: -1300765434282776416
+    second: Togekiss_transparent_17
+  - first:
+      213: 3310589703591991798
+    second: Togekiss_transparent_18
+  - first:
+      213: 3699729786905778182
+    second: Togekiss_transparent_19
+  - first:
+      213: -3156378284834854761
+    second: Togekiss_transparent_20
+  - first:
+      213: -8817714755998670356
+    second: Togekiss_transparent_21
+  - first:
+      213: -5229759657909789839
+    second: Togekiss_transparent_22
+  - first:
+      213: -2897564258790911863
+    second: Togekiss_transparent_23
+  - first:
+      213: 3403860195040488321
+    second: Togekiss_transparent_24
+  - first:
+      213: -5289237063456011768
+    second: Togekiss_transparent_25
+  - first:
+      213: -3505337958863316692
+    second: Togekiss_transparent_26
+  - first:
+      213: -968015800540463866
+    second: Togekiss_transparent_27
+  - first:
+      213: -2125037500013506615
+    second: Togekiss_transparent_28
+  - first:
+      213: -1216167570106453141
+    second: Togekiss_transparent_29
+  - first:
+      213: 2728365012618601647
+    second: Togekiss_transparent_30
+  - first:
+      213: -7566480653414376309
+    second: Togekiss_transparent_31
+  - first:
+      213: -2275237027321083493
+    second: Togekiss_transparent_32
+  - first:
+      213: -6447567329188664158
+    second: Togekiss_transparent_33
+  - first:
+      213: 3974904459266819486
+    second: Togekiss_transparent_34
+  - first:
+      213: 7621293732777319941
+    second: Togekiss_transparent_35
+  - first:
+      213: -6172404534000394650
+    second: Togekiss_transparent_36
+  - first:
+      213: 5248749258968399742
+    second: Togekiss_transparent_37
+  - first:
+      213: 5883443419519500768
+    second: Togekiss_transparent_38
+  - first:
+      213: -2168151629182844267
+    second: Togekiss_transparent_39
+  - first:
+      213: 4935011770921400141
+    second: Togekiss_transparent_40
+  - first:
+      213: -422593098405908982
+    second: Togekiss_transparent_41
+  - first:
+      213: 1840981640198093731
+    second: Togekiss_transparent_42
+  - first:
+      213: -7986491531684342865
+    second: Togekiss_transparent_43
+  - first:
+      213: -4569806030527627814
+    second: Togekiss_transparent_44
+  - first:
+      213: -6303250503044265617
+    second: Togekiss_transparent_45
+  - first:
+      213: 1350241806201826116
+    second: Togekiss_transparent_46
+  - first:
+      213: 1197138042337646573
+    second: Togekiss_transparent_47
+  - first:
+      213: 3107427371213643891
+    second: Togekiss_transparent_48
+  - first:
+      213: -6312466058175846226
+    second: Togekiss_transparent_49
+  - first:
+      213: -6918361141595481583
+    second: Togekiss_transparent_50
+  - first:
+      213: 3255120016165449138
+    second: Togekiss_transparent_51
+  - first:
+      213: 4522599654397069260
+    second: Togekiss_transparent_52
+  - first:
+      213: 251452430811817346
+    second: Togekiss_transparent_53
+  - first:
+      213: -4538073299147596283
+    second: Togekiss_transparent_54
+  - first:
+      213: 6258302481219805824
+    second: Togekiss_transparent_55
+  - first:
+      213: -4377757757443307188
+    second: Togekiss_transparent_56
+  - first:
+      213: -2384344052053785739
+    second: Togekiss_transparent_57
+  - first:
+      213: -9131145775697029764
+    second: Togekiss_transparent_58
+  - first:
+      213: -1107958809671550929
+    second: Togekiss_transparent_59
+  - first:
+      213: 8186272038833553042
+    second: Togekiss_transparent_60
+  - first:
+      213: 4378867738433089412
+    second: Togekiss_transparent_61
+  - first:
+      213: -1425063087543948881
+    second: Togekiss_transparent_62
+  - first:
+      213: -6556010076771141100
+    second: Togekiss_transparent_63
+  - first:
+      213: 6014711958066259659
+    second: Togekiss_transparent_64
+  - first:
+      213: 8401436351745863674
+    second: Togekiss_transparent_65
+  - first:
+      213: 7659123416728565299
+    second: Togekiss_transparent_66
+  - first:
+      213: 3874236350009918126
+    second: Togekiss_transparent_67
+  - first:
+      213: -2225563283414162967
+    second: Togekiss_transparent_68
+  - first:
+      213: 1961374418832321981
+    second: Togekiss_transparent_69
+  - first:
+      213: 682418143837010173
+    second: Togekiss_transparent_70
+  - first:
+      213: -2286097754599229748
+    second: Togekiss_transparent_71
+  - first:
+      213: -7812004299938667025
+    second: Togekiss_transparent_72
+  - first:
+      213: -3103450167980430885
+    second: Togekiss_transparent_73
+  - first:
+      213: -6880529212144352226
+    second: Togekiss_transparent_74
+  - first:
+      213: 2156914632437798192
+    second: Togekiss_transparent_75
+  - first:
+      213: 356903289740981515
+    second: Togekiss_transparent_76
+  - first:
+      213: 6889934536531425508
+    second: Togekiss_transparent_77
+  - first:
+      213: 6356178723808978555
+    second: Togekiss_transparent_78
+  - first:
+      213: -1754145749170104241
+    second: Togekiss_transparent_79
+  - first:
+      213: -5210880666526776288
+    second: Togekiss_transparent_80
+  - first:
+      213: 5978552466879717741
+    second: Togekiss_transparent_81
+  - first:
+      213: 3802460464503695022
+    second: Togekiss_transparent_82
+  - first:
+      213: -6280551171559393583
+    second: Togekiss_transparent_83
+  - first:
+      213: 8941326927514085820
+    second: Togekiss_transparent_84
+  - first:
+      213: -5595950965327924094
+    second: Togekiss_transparent_85
+  - first:
+      213: 7399954122192244124
+    second: Togekiss_transparent_86
+  - first:
+      213: 5303636061144099645
+    second: Togekiss_transparent_87
+  - first:
+      213: 520727108047596406
+    second: Togekiss_transparent_88
+  - first:
+      213: 475592085590334382
+    second: Togekiss_transparent_89
+  - first:
+      213: 1331720898180945280
+    second: Togekiss_transparent_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Togekiss_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 88
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c04808d5b185db80800000000000000
+      internalID: -8370641714384715576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 219
+        width: 79
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa776a6656bc8cc80800000000000000
+      internalID: -8302162276683188305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 218
+        width: 66
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c88cee1623020a50800000000000000
+      internalID: 6485749875629394114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 221
+        width: 96
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284e3d14681b479d0800000000000000
+      internalID: -2777399879992613758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 223
+        width: 98
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658f974e21de083d0800000000000000
+      internalID: -3206302269289400234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 225
+        width: 88
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3189f6ab9ca0eab60800000000000000
+      internalID: 7759151069538523155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 225
+        width: 88
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9b90b423888c820800000000000000
+      internalID: 2938748506447919612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 225
+        width: 88
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69097b419aa377c30800000000000000
+      internalID: 4357015662375702678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 148
+        width: 81
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d841a9213554510800000000000000
+      internalID: 1532722587549076808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 48
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40e7483360853560800000000000000
+      internalID: 7292876335230738509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 168
+        width: 43
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaa9da63c2aa18e0800000000000000
+      internalID: -1721884947320821086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 172
+        width: 53
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa68773a7800a2e0800000000000000
+      internalID: -2116682503854462216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 172
+        width: 53
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa01d6b85719fd470800000000000000
+      internalID: 8421609762242498735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 194
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a641acb885aad60800000000000000
+      internalID: 7902225853588990622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 179
+        width: 51
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e006631bc150d40800000000000000
+      internalID: 5549873663251058221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 193
+        width: 53
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371f26863c43329f0800000000000000
+      internalID: -494493520206040717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 178
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9d691b46abfe040800000000000000
+      internalID: 4679163479500184055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 178
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8e771bab0c2fde0800000000000000
+      internalID: -1300765434282776416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 178
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f99aaf8bc391fd20800000000000000
+      internalID: 3310589703591991798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 178
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6085371a3a4185330800000000000000
+      internalID: 3699729786905778182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 178
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79869a35caa4234d0800000000000000
+      internalID: -3156378284834854761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 178
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1aafdc52f21a580800000000000000
+      internalID: -8817714755998670356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 178
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b5e91bc492c67b0800000000000000
+      internalID: -5229759657909789839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 178
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98056e898a8c9c7d0800000000000000
+      internalID: -2897564258790911863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 178
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bea7e10d0fc3f20800000000000000
+      internalID: 3403860195040488321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 178
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80acfd31aead896b0800000000000000
+      internalID: -5289237063456011768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 178
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c295240d2b98a5fc0800000000000000
+      internalID: -3505337958863316692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 176
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60df1d712cae092f0800000000000000
+      internalID: -968015800540463866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 178
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf8f4517a95282e0800000000000000
+      internalID: -2125037500013506615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 178
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63747cd90e4f1fe0800000000000000
+      internalID: -1216167570106453141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 178
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa46cb206891dd520800000000000000
+      internalID: 2728365012618601647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 178
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cde554fe57ef690800000000000000
+      internalID: -7566480653414376309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 176
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9906b67afbbc60e0800000000000000
+      internalID: -2275237027321083493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 178
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acab4ebca3a586a0800000000000000
+      internalID: -6447567329188664158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 178
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9507b6bb82b92730800000000000000
+      internalID: 3974904459266819486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 176
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e5a17454644c960800000000000000
+      internalID: 7621293732777319941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 178
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e55e477c6375aa0800000000000000
+      internalID: -6172404534000394650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 176
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ff7e754ad47d840800000000000000
+      internalID: 5248749258968399742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 178
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1c1944e9036a150800000000000000
+      internalID: 5883443419519500768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 178
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5924f53a49d29e1e0800000000000000
+      internalID: -2168151629182844267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 178
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4734201f0fac7440800000000000000
+      internalID: 4935011770921400141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 178
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eebf4e0d5a22af0800000000000000
+      internalID: -422593098405908982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 178
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abf50e3c0b7c8910800000000000000
+      internalID: 1840981640198093731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 178
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa31a4424484a2190800000000000000
+      internalID: -7986491531684342865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 178
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add76f980a9c490c0800000000000000
+      internalID: -4569806030527627814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 169
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f698eb3401b5688a0800000000000000
+      internalID: -6303250503044265617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 179
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44baa83d4c50db210800000000000000
+      internalID: 1350241806201826116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 166
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de754a0f4b61d9010800000000000000
+      internalID: 1197138042337646573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 166
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370e382fabccf1b20800000000000000
+      internalID: 3107427371213643891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 166
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8e7b1a09d9568a0800000000000000
+      internalID: -6312466058175846226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 166
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ad55f523b0dff90800000000000000
+      internalID: -6918361141595481583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 166
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd2ec888628c2d20800000000000000
+      internalID: 3255120016165449138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 166
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc744a58c6083ce30800000000000000
+      internalID: 4522599654397069260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 166
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285627057a65d7300800000000000000
+      internalID: 251452430811817346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 166
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e5f9fc0668501c0800000000000000
+      internalID: -4538073299147596283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 166
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0826d02e2f4f9d650800000000000000
+      internalID: 6258302481219805824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 166
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4981e293841f33c0800000000000000
+      internalID: -4377757757443307188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 166
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573c40ba7bb19eed0800000000000000
+      internalID: -2384344052053785739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 166
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75154fbb47a74180800000000000000
+      internalID: -9131145775697029764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 166
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2833c3355dbf90f0800000000000000
+      internalID: -1107958809671550929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 166
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ef26deb0b7b9170800000000000000
+      internalID: 8186272038833553042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 166
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe8b3020dd4cc30800000000000000
+      internalID: 4378867738433089412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 166
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9eb641ca8293ce0800000000000000
+      internalID: -1425063087543948881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 166
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41abc26029f5405a0800000000000000
+      internalID: -6556010076771141100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 158
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc665d698ac887350800000000000000
+      internalID: 6014711958066259659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 170
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affadd469d5e79470800000000000000
+      internalID: 8401436351745863674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 155
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3367bf0fa2caa4a60800000000000000
+      internalID: 7659123416728565299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 154
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea24f3a0f6d04c530800000000000000
+      internalID: 3874236350009918126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 157
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e162fa3cf53d11e0800000000000000
+      internalID: -2225563283414162967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 131
+        width: 51
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbde90264a3383b10800000000000000
+      internalID: 1961374418832321981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_70
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 132
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8bfabafaf687900800000000000000
+      internalID: 682418143837010173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 88
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc67b4754362640e0800000000000000
+      internalID: -2286097754599229748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_72
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 71
+        width: 92
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5e45e9a7f269390800000000000000
+      internalID: -7812004299938667025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_73
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 67
+        width: 85
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd96667d3845ee4d0800000000000000
+      internalID: -3103450167980430885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_74
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 71
+        width: 92
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14007bd2237380a0800000000000000
+      internalID: -6880529212144352226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_75
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 75
+        width: 88
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0351c4d2e66eeed10800000000000000
+      internalID: 2156914632437798192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_76
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 77
+        width: 87
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05fd2ca6a9f3f400800000000000000
+      internalID: 356903289740981515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_77
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 78
+        width: 81
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8b6afd4f6fd9f50800000000000000
+      internalID: 6889934536531425508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_78
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 111
+        width: 55
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76a7817fdea53850800000000000000
+      internalID: 6356178723808978555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_79
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 106
+        width: 53
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4854782cb508a7e0800000000000000
+      internalID: -1754145749170104241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_80
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 14
+        width: 98
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02488b864ab3fa7b0800000000000000
+      internalID: -5210880666526776288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_81
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 66
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61a66bfac518f250800000000000000
+      internalID: 5978552466879717741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_82
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 66
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6a53b65ad05c430800000000000000
+      internalID: 3802460464503695022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 96
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6f9893cfff6d8a0800000000000000
+      internalID: -6280551171559393583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_84
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 12
+        width: 96
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9ac17a779f51c70800000000000000
+      internalID: 8941326927514085820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_85
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 11
+        width: 88
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284ff13ee303752b0800000000000000
+      internalID: -5595950965327924094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_86
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 7
+        width: 92
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dc477411be1b660800000000000000
+      internalID: 7399954122192244124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_87
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1
+        width: 92
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b2272d5ec4a9940800000000000000
+      internalID: 5303636061144099645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_88
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1
+        width: 88
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67be71cbb8ef93700800000000000000
+      internalID: 520727108047596406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_89
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 40
+        width: 37
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab59976b74a99600800000000000000
+      internalID: 475592085590334382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togekiss_transparent_90
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 38
+        width: 40
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0851a04e9193b7210800000000000000
+      internalID: 1331720898180945280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4bc29da0d74b4a24fbdad327d3cb77f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Togekiss_transparent_0: -8370641714384715576
+      Togekiss_transparent_1: -8302162276683188305
+      Togekiss_transparent_10: -1721884947320821086
+      Togekiss_transparent_11: -2116682503854462216
+      Togekiss_transparent_12: 8421609762242498735
+      Togekiss_transparent_13: 7902225853588990622
+      Togekiss_transparent_14: 5549873663251058221
+      Togekiss_transparent_15: -494493520206040717
+      Togekiss_transparent_16: 4679163479500184055
+      Togekiss_transparent_17: -1300765434282776416
+      Togekiss_transparent_18: 3310589703591991798
+      Togekiss_transparent_19: 3699729786905778182
+      Togekiss_transparent_2: 6485749875629394114
+      Togekiss_transparent_20: -3156378284834854761
+      Togekiss_transparent_21: -8817714755998670356
+      Togekiss_transparent_22: -5229759657909789839
+      Togekiss_transparent_23: -2897564258790911863
+      Togekiss_transparent_24: 3403860195040488321
+      Togekiss_transparent_25: -5289237063456011768
+      Togekiss_transparent_26: -3505337958863316692
+      Togekiss_transparent_27: -968015800540463866
+      Togekiss_transparent_28: -2125037500013506615
+      Togekiss_transparent_29: -1216167570106453141
+      Togekiss_transparent_3: -2777399879992613758
+      Togekiss_transparent_30: 2728365012618601647
+      Togekiss_transparent_31: -7566480653414376309
+      Togekiss_transparent_32: -2275237027321083493
+      Togekiss_transparent_33: -6447567329188664158
+      Togekiss_transparent_34: 3974904459266819486
+      Togekiss_transparent_35: 7621293732777319941
+      Togekiss_transparent_36: -6172404534000394650
+      Togekiss_transparent_37: 5248749258968399742
+      Togekiss_transparent_38: 5883443419519500768
+      Togekiss_transparent_39: -2168151629182844267
+      Togekiss_transparent_4: -3206302269289400234
+      Togekiss_transparent_40: 4935011770921400141
+      Togekiss_transparent_41: -422593098405908982
+      Togekiss_transparent_42: 1840981640198093731
+      Togekiss_transparent_43: -7986491531684342865
+      Togekiss_transparent_44: -4569806030527627814
+      Togekiss_transparent_45: -6303250503044265617
+      Togekiss_transparent_46: 1350241806201826116
+      Togekiss_transparent_47: 1197138042337646573
+      Togekiss_transparent_48: 3107427371213643891
+      Togekiss_transparent_49: -6312466058175846226
+      Togekiss_transparent_5: 7759151069538523155
+      Togekiss_transparent_50: -6918361141595481583
+      Togekiss_transparent_51: 3255120016165449138
+      Togekiss_transparent_52: 4522599654397069260
+      Togekiss_transparent_53: 251452430811817346
+      Togekiss_transparent_54: -4538073299147596283
+      Togekiss_transparent_55: 6258302481219805824
+      Togekiss_transparent_56: -4377757757443307188
+      Togekiss_transparent_57: -2384344052053785739
+      Togekiss_transparent_58: -9131145775697029764
+      Togekiss_transparent_59: -1107958809671550929
+      Togekiss_transparent_6: 2938748506447919612
+      Togekiss_transparent_60: 8186272038833553042
+      Togekiss_transparent_61: 4378867738433089412
+      Togekiss_transparent_62: -1425063087543948881
+      Togekiss_transparent_63: -6556010076771141100
+      Togekiss_transparent_64: 6014711958066259659
+      Togekiss_transparent_65: 8401436351745863674
+      Togekiss_transparent_66: 7659123416728565299
+      Togekiss_transparent_67: 3874236350009918126
+      Togekiss_transparent_68: -2225563283414162967
+      Togekiss_transparent_69: 1961374418832321981
+      Togekiss_transparent_7: 4357015662375702678
+      Togekiss_transparent_70: 682418143837010173
+      Togekiss_transparent_71: -2286097754599229748
+      Togekiss_transparent_72: -7812004299938667025
+      Togekiss_transparent_73: -3103450167980430885
+      Togekiss_transparent_74: -6880529212144352226
+      Togekiss_transparent_75: 2156914632437798192
+      Togekiss_transparent_76: 356903289740981515
+      Togekiss_transparent_77: 6889934536531425508
+      Togekiss_transparent_78: 6356178723808978555
+      Togekiss_transparent_79: -1754145749170104241
+      Togekiss_transparent_8: 1532722587549076808
+      Togekiss_transparent_80: -5210880666526776288
+      Togekiss_transparent_81: 5978552466879717741
+      Togekiss_transparent_82: 3802460464503695022
+      Togekiss_transparent_83: -6280551171559393583
+      Togekiss_transparent_84: 8941326927514085820
+      Togekiss_transparent_85: -5595950965327924094
+      Togekiss_transparent_86: 7399954122192244124
+      Togekiss_transparent_87: 5303636061144099645
+      Togekiss_transparent_88: 520727108047596406
+      Togekiss_transparent_89: 475592085590334382
+      Togekiss_transparent_9: 7292876335230738509
+      Togekiss_transparent_90: 1331720898180945280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

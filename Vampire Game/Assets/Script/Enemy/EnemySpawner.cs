@@ -42,7 +42,7 @@ public class EnemySpawner : MonoBehaviour
     Transform player;
     void Start()
     {
-        player = FindObjectOfType<PlayerStats>().transform;
+        player = FindAnyObjectByType<PlayerStats>()?.transform;
         CalculateWaveQuota();
         
     }

@@ -34,7 +34,7 @@ public class EnemyStats : MonoBehaviour
 
      void Start()
     {
-        player = FindObjectOfType<PlayerStats>().transform;
+        player = FindFirstObjectByType<PlayerStats>()?.transform;
         sr = GetComponent<SpriteRenderer>();
         originalColor = sr.color;
 
@@ -115,15 +115,28 @@ public class EnemyStats : MonoBehaviour
         }
     }
 
+    //private void OnDestroy()
+    //{
+    //    EnemySpawner es = FindFirstObjectByType<EnemySpawner>();
+    //    es.OnEnemyKilled();
+    //}
     private void OnDestroy()
     {
-        EnemySpawner es = FindObjectOfType<EnemySpawner>();
-        es.OnEnemyKilled();
+        EnemySpawner es = FindFirstObjectByType<EnemySpawner>();
+        if (es != null)
+        {
+            es.OnEnemyKilled();
+        }
+        else
+        {
+            Debug.LogWarning("EnemySpawner not found in OnDestroy!");
+        }
     }
+
 
     void ReturnEnemy()
     {
-        EnemySpawner es = FindObjectOfType<EnemySpawner>();
+        EnemySpawner es = FindFirstObjectByType<EnemySpawner>();
         transform.position = player.position + es.relativeSpawnPoints[Random.Range(0,es.relativeSpawnPoints.Count)].position;
     }
 }

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc78465befd0fd24d85fc9099aa79a73, type: 3}
+  m_Name: Character Data
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  name: Gennaro
+  startingWeapon: {fileID: 11400000, guid: 4525491b2f82c064582ac8e7a7db8706, type: 2}
+  stats:
+    maxHealth: 1000
+    recovery: 0
+    moveSpeed: 1
+    might: 1
+    speed: 1
+    magnet: 30

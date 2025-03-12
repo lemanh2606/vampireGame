@@ -29,7 +29,7 @@ public class ProjectileWeaponBehaviour : MonoBehaviour
 
     public float GetCurrentDamage()
     {
-        return currentDamage *= FindObjectOfType<PlayerStats>().CurrentMight;
+        return currentDamage *= FindFirstObjectByType<PlayerStats>().CurrentMight;
     }
 
 
@@ -99,7 +99,7 @@ public class ProjectileWeaponBehaviour : MonoBehaviour
         {
             if(col.gameObject.TryGetComponent(out BreakableProps breakable))
             {
-                breakable.TakeDamege(GetCurrentDamage());
+                breakable.TakeDamage(GetCurrentDamage());
                 ReducePierce();
             }
         }

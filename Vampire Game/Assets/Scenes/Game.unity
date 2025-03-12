@@ -146,7 +146,7 @@ RectTransform:
   m_GameObject: {fileID: 49933522}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.21, y: 0.2, z: 1}
+  m_LocalScale: {x: 0.8107121, y: 0.2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 159589671}
@@ -156,7 +156,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 93, y: 286}
+  m_AnchoredPosition: {x: 5, y: 256}
   m_SizeDelta: {x: -14.3647, y: -446.9146}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &49933524
@@ -298,7 +298,7 @@ MonoBehaviour:
   currentState: 0
   previousState: 0
   damageTextCanvas: {fileID: 1216578258}
-  textFontSize: 100
+  textFontSize: 40
   textFont: {fileID: 11400000, guid: ea428463817bace448d28b64c09dbb1e, type: 2}
   referenceCamera: {fileID: 0}
   pauseScreen: {fileID: 900752072}
@@ -328,7 +328,7 @@ MonoBehaviour:
   - {fileID: 1515406064}
   - {fileID: 1011985706}
   - {fileID: 1382548931}
-  timeLimit: 75
+  timeLimit: 120
   stopwatchDisplay: {fileID: 1351952343}
   isGameOver: 0
   choosingUpgrade: 0
@@ -8402,7 +8402,7 @@ MonoBehaviour:
     CustomLookAtTarget: 0
   Lens:
     FieldOfView: 60
-    OrthographicSize: 6.1140122
+    OrthographicSize: 8
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -9694,7 +9694,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 6.1140122
+  orthographic size: 8
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

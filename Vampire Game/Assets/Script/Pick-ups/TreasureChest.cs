@@ -5,7 +5,7 @@ public class TreasureChest : MonoBehaviour
     InventoryManager inventory;
     void Start()
     {
-        inventory = FindObjectOfType<InventoryManager>();
+        inventory = FindFirstObjectByType<InventoryManager>();
 
     }
 

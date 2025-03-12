@@ -27,7 +27,7 @@ public class MeleeWeaponBehaviour : MonoBehaviour
 
     public float GetCurrentDamage()
     {
-        return currentDamage *= FindObjectOfType<PlayerStats>().CurrentMight;
+        return currentDamage *= FindFirstObjectByType<PlayerStats>().CurrentMight;
     }
 
     protected virtual void Start()
@@ -47,7 +47,7 @@ public class MeleeWeaponBehaviour : MonoBehaviour
         {
             if (col.gameObject.TryGetComponent(out BreakableProps breakable))
             {
-                breakable.TakeDamege(GetCurrentDamage());
+                breakable.TakeDamage(GetCurrentDamage());
             }
         }
     }

@@ -2613,7 +2613,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5, y: -6}
+  m_AnchoredPosition: {x: 0.0000038146973, y: 10}
   m_SizeDelta: {x: 325, y: 350}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &584154101
@@ -3237,8 +3237,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 87.99069, y: 1.1411133}
-  m_SizeDelta: {x: 216.1094, y: 95.6138}
+  m_AnchoredPosition: {x: 5, y: 32.903}
+  m_SizeDelta: {x: 59.8008, y: 65.807}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &734773311
 MonoBehaviour:
@@ -5125,7 +5125,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 6, y: -7}
+  m_AnchoredPosition: {x: -0.000015259, y: 10}
   m_SizeDelta: {x: 325, y: 350}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1197867092
@@ -7796,6 +7796,7 @@ GameObject:
   - component: {fileID: 1580054355}
   - component: {fileID: 1580054356}
   - component: {fileID: 1580054357}
+  - component: {fileID: 1580054358}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -8010,6 +8011,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b50add03b5e1060469fed19e97477183, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  baseStats:
+    maxHealth: 0
+    recovery: 0
+    moveSpeed: 0
+    might: 0
+    speed: 0
+    magnet: 0
+  actualStats:
+    maxHealth: 0
+    recovery: 0
+    moveSpeed: 0
+    might: 0
+    speed: 0
+    magnet: 0
   damageEffect: {fileID: 2889893103020790820, guid: 40724345f7d73854995e1e6aa460e1d4, type: 3}
   experience: 0
   level: 1
@@ -8034,7 +8049,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1580054347}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cd8c2410bfa6f0d4b8b6139b3f9c0731, type: 3}
   m_Name: 
@@ -8114,6 +8129,67 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 381d77eb5e26b0543ace921f96bc0eb5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1580054358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1580054347}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38316b62f223920409d34224163e4534, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weaponSlots:
+  - item: {fileID: 0}
+    image: {fileID: 1778874746}
+  - item: {fileID: 0}
+    image: {fileID: 2038149264}
+  - item: {fileID: 0}
+    image: {fileID: 1239916242}
+  - item: {fileID: 0}
+    image: {fileID: 444651788}
+  - item: {fileID: 0}
+    image: {fileID: 916765025}
+  - item: {fileID: 0}
+    image: {fileID: 708006906}
+  passiveSlots:
+  - item: {fileID: 0}
+    image: {fileID: 1790386299}
+  - item: {fileID: 0}
+    image: {fileID: 1530848978}
+  - item: {fileID: 0}
+    image: {fileID: 1231727660}
+  - item: {fileID: 0}
+    image: {fileID: 1515406064}
+  - item: {fileID: 0}
+    image: {fileID: 1011985706}
+  - item: {fileID: 0}
+    image: {fileID: 1382548931}
+  availableWeapons:
+  - {fileID: 11400000, guid: 4525491b2f82c064582ac8e7a7db8706, type: 2}
+  availablePassives:
+  - {fileID: 11400000, guid: 1a52feb90606c6342ae42af19cba414b, type: 2}
+  - {fileID: 11400000, guid: db3a5f8724eb46e4d872dc85b6237e5d, type: 2}
+  - {fileID: 11400000, guid: 80e006d3a41d90f47910882cb6b88a89, type: 2}
+  upgradeUIOptions:
+  - upgradeNameDisplay: {fileID: 664023968}
+    upgradeDescriptionDisplay: {fileID: 360396243}
+    upgradeIcon: {fileID: 105126210}
+    upgradeButton: {fileID: 225712270}
+  - upgradeNameDisplay: {fileID: 614258842}
+    upgradeDescriptionDisplay: {fileID: 834575562}
+    upgradeIcon: {fileID: 520890759}
+    upgradeButton: {fileID: 1966330683}
+  - upgradeNameDisplay: {fileID: 1082101803}
+    upgradeDescriptionDisplay: {fileID: 1319310530}
+    upgradeIcon: {fileID: 1335728664}
+    upgradeButton: {fileID: 1597342344}
+  - upgradeNameDisplay: {fileID: 1495676532}
+    upgradeDescriptionDisplay: {fileID: 2056738197}
+    upgradeIcon: {fileID: 219988649}
+    upgradeButton: {fileID: 162733543}
 --- !u!1 &1597342342
 GameObject:
   m_ObjectHideFlags: 0

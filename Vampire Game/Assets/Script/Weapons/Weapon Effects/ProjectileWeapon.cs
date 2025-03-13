@@ -65,7 +65,6 @@ public class ProjectileWeapon : Weapon
     }
 
     // Gets which direction the projectile should face when spamming.
-    // Gets which direction the projectile should face when spamming.
     protected virtual float GetSpawnAngle()
     {
         return Mathf.Atan2(movement.lastMovedVector.y, movement.lastMovedVector.x) * Mathf.Rad2Deg;

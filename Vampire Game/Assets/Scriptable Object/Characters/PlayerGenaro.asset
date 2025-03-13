@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dc78465befd0fd24d85fc9099aa79a73, type: 3}
-  m_Name: Character Data
+  m_Name: PlayerGenaro
   m_EditorClassIdentifier: 
-  icon: {fileID: 0}
+  icon: {fileID: 8126292618824742859, guid: 13078a2d0f25ea94c83a42ad2ca4782f, type: 3}
   name: Gennaro
   startingWeapon: {fileID: 11400000, guid: 4525491b2f82c064582ac8e7a7db8706, type: 2}
   stats:
     maxHealth: 1000
     recovery: 0
-    moveSpeed: 1
+    moveSpeed: 5
     might: 1
     speed: 1
     magnet: 30

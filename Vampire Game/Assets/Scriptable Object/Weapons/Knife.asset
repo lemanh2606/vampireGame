@@ -12,12 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee0e242f1917f224ea811319e43adbf0, type: 3}
   m_Name: Knife
   m_EditorClassIdentifier: 
-  icon: {fileID: 0}
+  icon: {fileID: 7479535654995203439, guid: 94eb7bce90119774f8a6d1afa3619b5b, type: 3}
   maxLevel: 8
+  evolutionData:
+  - name: Knife + Spinach
+    condition: 0
+    consumes: -1
+    evolutionLevel: 8
+    catalysts:
+    - itemType: {fileID: 11400000, guid: db3a5f8724eb46e4d872dc85b6237e5d, type: 2}
+      level: 2
+    outcome:
+      itemType: {fileID: 11400000, guid: 1a52feb90606c6342ae42af19cba414b, type: 2}
+      level: 0
   behaviour: ProjectileWeapon
   baseStats:
     name: HammerSaw
     description: Fires quickly in the faced direction.
+    auraPrefab: {fileID: 0}
     projectilePrefab: {fileID: 8218756831216702109, guid: 07095584fbe1f634aafeb0eaad6fdb7c, type: 3}
     hitEffect: {fileID: 0}
     spawnVariance:
@@ -30,7 +42,7 @@ MonoBehaviour:
     damage: 6.5
     damageVariance: 2
     area: 1
-    speed: 1
+    speed: 10
     cooldown: 1
     projectileInterval: 0.1
     knockback: 0.5
@@ -40,6 +52,7 @@ MonoBehaviour:
   linearGrowth:
   - name: Level 2
     description: Fires 1 more projecttile.
+    auraPrefab: {fileID: 0}
     projectilePrefab: {fileID: 8218756831216702109, guid: 07095584fbe1f634aafeb0eaad6fdb7c, type: 3}
     hitEffect: {fileID: 0}
     spawnVariance:
@@ -61,6 +74,7 @@ MonoBehaviour:
     maxInstances: 0
   - name: Level 3
     description: Fires 1 more projecttile.
+    auraPrefab: {fileID: 0}
     projectilePrefab: {fileID: 8218756831216702109, guid: 07095584fbe1f634aafeb0eaad6fdb7c, type: 3}
     hitEffect: {fileID: 0}
     spawnVariance:
@@ -82,6 +96,7 @@ MonoBehaviour:
     maxInstances: 0
   - name: Level 4
     description: Fires 1 more projecttile.
+    auraPrefab: {fileID: 0}
     projectilePrefab: {fileID: 8218756831216702109, guid: 07095584fbe1f634aafeb0eaad6fdb7c, type: 3}
     hitEffect: {fileID: 0}
     spawnVariance:
@@ -103,6 +118,7 @@ MonoBehaviour:
     maxInstances: 0
   - name: Level 5
     description: Fires 1 more projecttile.
+    auraPrefab: {fileID: 0}
     projectilePrefab: {fileID: 8218756831216702109, guid: 07095584fbe1f634aafeb0eaad6fdb7c, type: 3}
     hitEffect: {fileID: 0}
     spawnVariance:
@@ -125,6 +141,7 @@ MonoBehaviour:
   randomGrowth:
   - name: 
     description: 
+    auraPrefab: {fileID: 0}
     projectilePrefab: {fileID: 8218756831216702109, guid: 07095584fbe1f634aafeb0eaad6fdb7c, type: 3}
     hitEffect: {fileID: 0}
     spawnVariance:
@@ -146,6 +163,7 @@ MonoBehaviour:
     maxInstances: 0
   - name: 
     description: 
+    auraPrefab: {fileID: 0}
     projectilePrefab: {fileID: 8218756831216702109, guid: 07095584fbe1f634aafeb0eaad6fdb7c, type: 3}
     hitEffect: {fileID: 0}
     spawnVariance:

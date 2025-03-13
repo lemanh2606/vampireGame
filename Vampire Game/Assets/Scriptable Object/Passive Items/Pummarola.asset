@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4de4966b3ac25844aa7068629cd315cf, type: 3}
+  m_Name: Pummarola
+  m_EditorClassIdentifier: 
+  icon: {fileID: 9163179789190762368, guid: bf9a7556082c28747a5926b514b75c5e, type: 3}
+  maxLevel: 5
+  baseStats:
+    name: Pummarola
+    description: Give some regen.
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      moveSpeed: 0
+      might: 0
+      speed: 0
+      magnet: 0
+  growth:
+  - name: Level 1
+    description: Give more regen.
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      moveSpeed: 0
+      might: 0
+      speed: 0
+      magnet: 0
+  - name: Level 2
+    description: Give more regen.
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      moveSpeed: 0
+      might: 0
+      speed: 0
+      magnet: 0
+  - name: Level 3
+    description: Give more regen.
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      moveSpeed: 0
+      might: 0
+      speed: 0
+      magnet: 0
+  - name: Level 4
+    description: Give more regen.
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      moveSpeed: 0
+      might: 0
+      speed: 0
+      magnet: 0
+  - name: Level 5
+    description: Give more regen.
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      moveSpeed: 0
+      might: 0
+      speed: 0
+      magnet: 0

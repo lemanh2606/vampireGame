@@ -3,16 +3,92 @@
   "WorkspaceRootPath": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\enemy\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\pick-ups\\treasurechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pick-ups\\treasurechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|e:\\pru212\\vampiregame\\vampiregame\\vampire game\\assets\\script\\pick-ups\\treasurechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pick-ups\\treasurechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\player\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|e:\\pru212\\vampiregame\\vampiregame\\vampire game\\assets\\script\\weapons\\auraweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\auraweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|e:\\pru212\\vampiregame\\vampiregame\\vampire game\\assets\\script\\weapons\\weapon effects\\aura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\weapon effects\\aura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\passive items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\passive items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\passive items\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\passive items\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\player\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\passive items\\passive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\passive items\\passive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\passive items\\wingspassiveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\passive items\\wingspassiveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\passive items\\passivedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\passive items\\passivedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\characterselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\characterselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\player\\obsolete\\characterscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\obsolete\\characterscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\player\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEF01DB-E82C-A56E-2FE7-03F695161FF5}|Assembly-CSharp-Editor.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Editor\\WeaponDataEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEF01DB-E82C-A56E-2FE7-03F695161FF5}|Assembly-CSharp-Editor.csproj|solutionrelative:Assets\\Script\\Editor\\WeaponDataEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\weapon effects\\projectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\weapon effects\\projectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\weapon effects\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\weapon effects\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\weapon effects\\weaponeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\weapon effects\\weaponeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\enemy\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\breakableprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,40 +111,12 @@
       "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\obsolete\\weaponbehavior\\garlicbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\obsolete\\weaponbehavior\\garlicbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\player\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\passive items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\passive items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\passive items\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\passive items\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\pick-ups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pick-ups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\weapon effects\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\weapon effects\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\weapon effects\\projectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\weapon effects\\projectileweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\obsolete\\weapon base\\projectileweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,22 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\obsolete\\weaponscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\obsolete\\weaponscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\weapon effects\\weaponeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\weapon effects\\weaponeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEF01DB-E82C-A56E-2FE7-03F695161FF5}|Assembly-CSharp-Editor.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Editor\\WeaponDataEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BEF01DB-E82C-A56E-2FE7-03F695161FF5}|Assembly-CSharp-Editor.csproj|solutionrelative:Assets\\Script\\Editor\\WeaponDataEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\assets\\script\\weapons\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapons\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,249 +134,252 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BreakableProps.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\BreakableProps.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\BreakableProps.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\BreakableProps.cs",
-              "RelativeToolTip": "Assets\\Script\\BreakableProps.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Weapon.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapons\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:24:04.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MeleeWeaponBehaviour.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\MeleeWeaponBehaviour.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\MeleeWeaponBehaviour.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\MeleeWeaponBehaviour.cs",
-              "RelativeToolTip": "Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\MeleeWeaponBehaviour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T16:31:21.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EnemySpawner.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemySpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemySpawner.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemySpawner.cs",
-              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemySpawner.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAqwFUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T16:31:33.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BobbingAnimation.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Pick-ups\\BobbingAnimation.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Pick-ups\\BobbingAnimation.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Pick-ups\\BobbingAnimation.cs",
-              "RelativeToolTip": "Assets\\Script\\Pick-ups\\BobbingAnimation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T08:34:00.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnemyStats.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemyStats.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyStats.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemyStats.cs",
-              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyStats.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAvwIMAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T10:38:54.64Z",
+              "WhenOpened": "2025-03-09T12:35:30.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CharacterData.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\CharacterData.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Player\\CharacterData.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\CharacterData.cs",
-              "RelativeToolTip": "Assets\\Script\\Player\\CharacterData.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\InventoryManager.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\InventoryManager.cs",
+              "ViewState": "AgIAAJ0BAAAAAAAAAAAcwKoBAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:31:33.318Z"
+              "WhenOpened": "2025-03-07T08:47:59.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TreasureChest.cs",
               "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Pick-ups\\TreasureChest.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Pick-ups\\TreasureChest.cs",
               "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Pick-ups\\TreasureChest.cs",
               "RelativeToolTip": "Assets\\Script\\Pick-ups\\TreasureChest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T09:13:16.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EnemyMovement.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemyMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyMovement.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemyMovement.cs",
-              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AuraWeapon.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\AuraWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\AuraWeapon.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\AuraWeapon.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapons\\AuraWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T11:25:44.299Z"
+              "WhenOpened": "2025-03-13T20:08:09.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
-              "ViewState": "AgIAANYAAAAAAAAAAAAqwHUAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Aura.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon Effects\\Aura.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Weapon Effects\\Aura.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon Effects\\Aura.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapons\\Weapon Effects\\Aura.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T01:26:23.803Z"
+              "WhenOpened": "2025-03-13T20:04:08.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GarlicBehaviour.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\GarlicBehaviour.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\GarlicBehaviour.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\GarlicBehaviour.cs",
-              "RelativeToolTip": "Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\GarlicBehaviour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T16:31:04.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InventoryManager.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\InventoryManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Player\\InventoryManager.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\InventoryManager.cs",
-              "RelativeToolTip": "Assets\\Script\\Player\\InventoryManager.cs",
-              "ViewState": "AgIAAMoBAAAAAAAAAAAuwBcCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T08:47:59.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Item.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\Item.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Passive Items\\Item.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\Item.cs",
-              "RelativeToolTip": "Assets\\Script\\Passive Items\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:18:02.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "ItemData.cs",
               "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\ItemData.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Passive Items\\ItemData.cs",
               "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\ItemData.cs",
               "RelativeToolTip": "Assets\\Script\\Passive Items\\ItemData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T18:23:36.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Pickup.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Pick-ups\\Pickup.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Pick-ups\\Pickup.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Pick-ups\\Pickup.cs",
-              "RelativeToolTip": "Assets\\Script\\Pick-ups\\Pickup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Passive Items\\Item.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\Item.cs",
+              "RelativeToolTip": "Assets\\Script\\Passive Items\\Item.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwG4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T08:33:45.036Z"
+              "WhenOpened": "2025-03-09T18:18:02.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAuwGIBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:26:23.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PlayerStats.cs",
               "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\PlayerStats.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerStats.cs",
               "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\PlayerStats.cs",
               "RelativeToolTip": "Assets\\Script\\Player\\PlayerStats.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAqwOsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAIA/wFEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T08:59:56.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Projectile.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon Effects\\Projectile.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Weapon Effects\\Projectile.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon Effects\\Projectile.cs",
-              "RelativeToolTip": "Assets\\Script\\Weapons\\Weapon Effects\\Projectile.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAuwDQAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerInventory.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:02:08.145Z"
+              "WhenOpened": "2025-03-13T17:04:27.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Passive.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\Passive.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Passive Items\\Passive.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\Passive.cs",
+              "RelativeToolTip": "Assets\\Script\\Passive Items\\Passive.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:40:25.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WingsPassiveItem.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\WingsPassiveItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Passive Items\\WingsPassiveItem.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\WingsPassiveItem.cs",
+              "RelativeToolTip": "Assets\\Script\\Passive Items\\WingsPassiveItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:57:44.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PassiveData.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\PassiveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Passive Items\\PassiveData.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Passive Items\\PassiveData.cs",
+              "RelativeToolTip": "Assets\\Script\\Passive Items\\PassiveData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:52:07.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CharacterSelector.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\CharacterSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharacterSelector.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\CharacterSelector.cs",
+              "RelativeToolTip": "Assets\\Script\\CharacterSelector.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:32:50.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CharacterScriptableObject.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\Obsolete\\CharacterScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Obsolete\\CharacterScriptableObject.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\Obsolete\\CharacterScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Obsolete\\CharacterScriptableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:31:17.091Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "WeaponData.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\WeaponData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\WeaponData.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\WeaponData.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapons\\WeaponData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:33:27.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CharacterData.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\CharacterData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\CharacterData.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\CharacterData.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\CharacterData.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:31:33.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeaponDataEditor.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Editor\\WeaponDataEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Editor\\WeaponDataEditor.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Editor\\WeaponDataEditor.cs",
+              "RelativeToolTip": "Assets\\Script\\Editor\\WeaponDataEditor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:03:06.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "ProjectileWeapon.cs",
               "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon Effects\\ProjectileWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Weapon Effects\\ProjectileWeapon.cs",
               "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon Effects\\ProjectileWeapon.cs",
               "RelativeToolTip": "Assets\\Script\\Weapons\\Weapon Effects\\ProjectileWeapon.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAYwEMAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAEIAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T17:04:21.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProjectileWeaponBehaviour.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\Weapon base\\ProjectileWeaponBehaviour.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Obsolete\\Weapon base\\ProjectileWeaponBehaviour.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\Weapon base\\ProjectileWeaponBehaviour.cs",
-              "RelativeToolTip": "Assets\\Script\\Weapons\\Obsolete\\Weapon base\\ProjectileWeaponBehaviour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T16:31:37.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "WeaponScriptableObject.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponScriptableObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Obsolete\\WeaponScriptableObject.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponScriptableObject.cs",
-              "RelativeToolTip": "Assets\\Script\\Weapons\\Obsolete\\WeaponScriptableObject.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAswAcAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:52:29.211Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Weapon.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon.cs",
-              "RelativeToolTip": "Assets\\Script\\Weapons\\Weapon.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon Effects\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Weapon Effects\\Projectile.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Weapon Effects\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapons\\Weapon Effects\\Projectile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwDQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T12:35:30.661Z"
+              "WhenOpened": "2025-03-09T14:02:08.145Z"
             },
             {
               "$type": "Document",
@@ -361,26 +396,122 @@
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "WeaponDataEditor.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Editor\\WeaponDataEditor.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Editor\\WeaponDataEditor.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Editor\\WeaponDataEditor.cs",
-              "RelativeToolTip": "Assets\\Script\\Editor\\WeaponDataEditor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyStats.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemyStats.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyStats.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAvwIMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:03:06.721Z"
+              "WhenOpened": "2025-03-07T10:38:54.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BobbingAnimation.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Pick-ups\\BobbingAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Pick-ups\\BobbingAnimation.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Pick-ups\\BobbingAnimation.cs",
+              "RelativeToolTip": "Assets\\Script\\Pick-ups\\BobbingAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:34:00.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:25:44.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemySpawner.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemySpawner.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwFUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:31:33.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MeleeWeaponBehaviour.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\MeleeWeaponBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\MeleeWeaponBehaviour.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\MeleeWeaponBehaviour.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\MeleeWeaponBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:31:21.683Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "WeaponData.cs",
-              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\WeaponData.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\WeaponData.cs",
-              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\WeaponData.cs",
-              "RelativeToolTip": "Assets\\Script\\Weapons\\WeaponData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Title": "BreakableProps.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\BreakableProps.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BreakableProps.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\BreakableProps.cs",
+              "RelativeToolTip": "Assets\\Script\\BreakableProps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T12:33:27.241Z"
+              "WhenOpened": "2025-03-09T14:24:04.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GarlicBehaviour.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\GarlicBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\GarlicBehaviour.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\GarlicBehaviour.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapons\\Obsolete\\WeaponBehavior\\GarlicBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:31:04.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Pick-ups\\Pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Pick-ups\\Pickup.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Pick-ups\\Pickup.cs",
+              "RelativeToolTip": "Assets\\Script\\Pick-ups\\Pickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:33:45.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProjectileWeaponBehaviour.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\Weapon base\\ProjectileWeaponBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Obsolete\\Weapon base\\ProjectileWeaponBehaviour.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\Weapon base\\ProjectileWeaponBehaviour.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapons\\Obsolete\\Weapon base\\ProjectileWeaponBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:31:37.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeaponScriptableObject.cs",
+              "DocumentMoniker": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapons\\Obsolete\\WeaponScriptableObject.cs",
+              "ToolTip": "E:\\PRU212\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapons\\Obsolete\\WeaponScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapons\\Obsolete\\WeaponScriptableObject.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:52:29.211Z"
             }
           ]
         }

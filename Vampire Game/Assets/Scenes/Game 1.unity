@@ -7396,7 +7396,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   orbPrefab: {fileID: 5664671291062845475, guid: 22a849e4b5a470445825c5397fb424a4, type: 3}
   playerTransform: {fileID: 1580054352}
-  maxOrbs: 20
+  maxOrbs: 200
   spawnInterval: 2
 --- !u!4 &1568688582
 Transform:

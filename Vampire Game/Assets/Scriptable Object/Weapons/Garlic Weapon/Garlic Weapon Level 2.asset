@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Garlic Weapon Level 2
   m_EditorClassIdentifier: 
   prefab: {fileID: 3910332352205883975, guid: b464e7db987d41a46a66dc50b144c1ea, type: 3}
-  damage: 5
+  damage: 10
   speed: 10
-  cooldownDuration: 2.5
+  cooldownDuration: 4
   pierce: 0
   level: 2
   nextLevelPrefabs: {fileID: 3369883419433647343, guid: c42c1744ed724f24cb7ddbb07342cd41, type: 3}

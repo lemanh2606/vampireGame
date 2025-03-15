@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|d:\\a pru\\game2\\vampiregame\\vampiregame\\vampire game\\assets\\script\\weapon\\weaponcontroller\\circleweaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weaponcontroller\\circleweaponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|d:\\a pru\\game2\\vampiregame\\vampiregame\\vampire game\\assets\\script\\weapon\\weaponbehavior\\circleprojectilebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weaponbehavior\\circleprojectilebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,6 +59,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CircleWeaponController.cs",
+              "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponController\\CircleWeaponController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponController\\CircleWeaponController.cs",
+              "ToolTip": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponController\\CircleWeaponController.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponController\\CircleWeaponController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:55:40.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CircleProjectileBehaviour.cs",
               "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponBehavior\\CircleProjectileBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponBehavior\\CircleProjectileBehaviour.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "orbSpawner.cs",
               "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponController\\orbSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponController\\orbSpawner.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "OrbController.cs",
               "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponController\\OrbController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponController\\OrbController.cs",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "orbWeaponBehaviour.cs",
               "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponBehavior\\orbWeaponBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponBehavior\\orbWeaponBehaviour.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "WeaponScriptableObject.cs",
               "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponScriptableObject.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponScriptableObject.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WeaponController.cs",
               "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\Weapon base\\WeaponController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\Weapon base\\WeaponController.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProjectileWeaponBehaviour.cs",
               "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\Weapon base\\ProjectileWeaponBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\Weapon base\\ProjectileWeaponBehaviour.cs",
@@ -139,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "hammerSawController.cs",
               "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponController\\hammerSawController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponController\\hammerSawController.cs",
@@ -151,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "hammerSawBehaviour.cs",
               "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponBehavior\\hammerSawBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponBehavior\\hammerSawBehaviour.cs",
@@ -163,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SceneController.cs",
               "DocumentMoniker": "D:\\A pru\\game2\\vampireGame\\vampireGame\\Vampire Game\\Assets\\Script\\SceneController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SceneController.cs",

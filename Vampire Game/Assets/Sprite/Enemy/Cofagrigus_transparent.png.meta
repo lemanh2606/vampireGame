@@ -1,0 +1,4108 @@
+fileFormatVersion: 2
+guid: e32c77a8e83fcba4d984e568ca003960
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9040879474298360290
+    second: Cofagrigus_transparent_0
+  - first:
+      213: 3631036675058371922
+    second: Cofagrigus_transparent_1
+  - first:
+      213: -5130111624539979999
+    second: Cofagrigus_transparent_2
+  - first:
+      213: 4732222477016089153
+    second: Cofagrigus_transparent_3
+  - first:
+      213: -7988670746060423057
+    second: Cofagrigus_transparent_4
+  - first:
+      213: 6343371108193857472
+    second: Cofagrigus_transparent_5
+  - first:
+      213: -2951412574479878912
+    second: Cofagrigus_transparent_6
+  - first:
+      213: -7305697216675090150
+    second: Cofagrigus_transparent_7
+  - first:
+      213: 5769955339157714831
+    second: Cofagrigus_transparent_8
+  - first:
+      213: -840429037206954204
+    second: Cofagrigus_transparent_9
+  - first:
+      213: 3315646991827409472
+    second: Cofagrigus_transparent_10
+  - first:
+      213: 5031250687539410237
+    second: Cofagrigus_transparent_11
+  - first:
+      213: 5772572133700751702
+    second: Cofagrigus_transparent_12
+  - first:
+      213: -2436213578337939198
+    second: Cofagrigus_transparent_13
+  - first:
+      213: -4479030604848185280
+    second: Cofagrigus_transparent_14
+  - first:
+      213: 2403196980857430091
+    second: Cofagrigus_transparent_15
+  - first:
+      213: 7669268879371299618
+    second: Cofagrigus_transparent_16
+  - first:
+      213: -936103491602184071
+    second: Cofagrigus_transparent_17
+  - first:
+      213: 2977983081638520294
+    second: Cofagrigus_transparent_18
+  - first:
+      213: -3897989205480708847
+    second: Cofagrigus_transparent_19
+  - first:
+      213: -6817758599022781775
+    second: Cofagrigus_transparent_20
+  - first:
+      213: 7822400492180047303
+    second: Cofagrigus_transparent_21
+  - first:
+      213: 5881872323161459654
+    second: Cofagrigus_transparent_22
+  - first:
+      213: 2117363132605616340
+    second: Cofagrigus_transparent_23
+  - first:
+      213: 301319751253891144
+    second: Cofagrigus_transparent_24
+  - first:
+      213: 6271904685379605963
+    second: Cofagrigus_transparent_25
+  - first:
+      213: -5043084849676585023
+    second: Cofagrigus_transparent_26
+  - first:
+      213: -8148138838977606902
+    second: Cofagrigus_transparent_27
+  - first:
+      213: -5413134800338756649
+    second: Cofagrigus_transparent_28
+  - first:
+      213: -1967790122394203662
+    second: Cofagrigus_transparent_29
+  - first:
+      213: 1560660687619615283
+    second: Cofagrigus_transparent_30
+  - first:
+      213: -1166428776719042420
+    second: Cofagrigus_transparent_31
+  - first:
+      213: -6372298372959825456
+    second: Cofagrigus_transparent_32
+  - first:
+      213: -9102358225792113391
+    second: Cofagrigus_transparent_33
+  - first:
+      213: 4777795332321827104
+    second: Cofagrigus_transparent_34
+  - first:
+      213: 6219605783754517025
+    second: Cofagrigus_transparent_35
+  - first:
+      213: 2281497304240752246
+    second: Cofagrigus_transparent_36
+  - first:
+      213: 5153405068392961321
+    second: Cofagrigus_transparent_37
+  - first:
+      213: 3987290729847573296
+    second: Cofagrigus_transparent_38
+  - first:
+      213: -7628476528500478895
+    second: Cofagrigus_transparent_39
+  - first:
+      213: 6436462935705307542
+    second: Cofagrigus_transparent_40
+  - first:
+      213: -3844549138486608265
+    second: Cofagrigus_transparent_41
+  - first:
+      213: 773096360604815173
+    second: Cofagrigus_transparent_42
+  - first:
+      213: 6415550133760989581
+    second: Cofagrigus_transparent_43
+  - first:
+      213: 4358808733528471129
+    second: Cofagrigus_transparent_44
+  - first:
+      213: -3390885196653395620
+    second: Cofagrigus_transparent_45
+  - first:
+      213: -3726115116362012474
+    second: Cofagrigus_transparent_46
+  - first:
+      213: -8416863592313355320
+    second: Cofagrigus_transparent_47
+  - first:
+      213: 1536788824772288768
+    second: Cofagrigus_transparent_48
+  - first:
+      213: -1752990128309984740
+    second: Cofagrigus_transparent_49
+  - first:
+      213: 8484893140109487758
+    second: Cofagrigus_transparent_50
+  - first:
+      213: -934431849658767749
+    second: Cofagrigus_transparent_51
+  - first:
+      213: -7091955558783128142
+    second: Cofagrigus_transparent_52
+  - first:
+      213: 7767297384730790189
+    second: Cofagrigus_transparent_53
+  - first:
+      213: -7028661938744558205
+    second: Cofagrigus_transparent_54
+  - first:
+      213: 460648138043701759
+    second: Cofagrigus_transparent_55
+  - first:
+      213: -3653785547350581221
+    second: Cofagrigus_transparent_56
+  - first:
+      213: -2162229989166358471
+    second: Cofagrigus_transparent_57
+  - first:
+      213: -1124759439759722451
+    second: Cofagrigus_transparent_58
+  - first:
+      213: -5581073289254695958
+    second: Cofagrigus_transparent_59
+  - first:
+      213: -4539189465818188797
+    second: Cofagrigus_transparent_60
+  - first:
+      213: 6501615752865050306
+    second: Cofagrigus_transparent_61
+  - first:
+      213: -5446647227170276055
+    second: Cofagrigus_transparent_62
+  - first:
+      213: -142549749364793227
+    second: Cofagrigus_transparent_63
+  - first:
+      213: -7105736164979624122
+    second: Cofagrigus_transparent_64
+  - first:
+      213: -4487609574992416843
+    second: Cofagrigus_transparent_65
+  - first:
+      213: -1278607082890679600
+    second: Cofagrigus_transparent_66
+  - first:
+      213: -3746896928364523490
+    second: Cofagrigus_transparent_67
+  - first:
+      213: 4891034975289563809
+    second: Cofagrigus_transparent_68
+  - first:
+      213: 2993244000249922047
+    second: Cofagrigus_transparent_69
+  - first:
+      213: -2586462505806233844
+    second: Cofagrigus_transparent_70
+  - first:
+      213: -2756099415495945120
+    second: Cofagrigus_transparent_71
+  - first:
+      213: 7223106496252550659
+    second: Cofagrigus_transparent_72
+  - first:
+      213: -7373450692228266545
+    second: Cofagrigus_transparent_73
+  - first:
+      213: -6001671231002583129
+    second: Cofagrigus_transparent_74
+  - first:
+      213: -8828900234919282987
+    second: Cofagrigus_transparent_75
+  - first:
+      213: 2754569337946680841
+    second: Cofagrigus_transparent_76
+  - first:
+      213: 8716117026451200004
+    second: Cofagrigus_transparent_77
+  - first:
+      213: -1986535980437713205
+    second: Cofagrigus_transparent_78
+  - first:
+      213: -1281173628808689273
+    second: Cofagrigus_transparent_79
+  - first:
+      213: 656688339003044049
+    second: Cofagrigus_transparent_80
+  - first:
+      213: -5077080563059112082
+    second: Cofagrigus_transparent_81
+  - first:
+      213: -2863509656656459321
+    second: Cofagrigus_transparent_82
+  - first:
+      213: 1950000668395596989
+    second: Cofagrigus_transparent_83
+  - first:
+      213: -2349466777150879410
+    second: Cofagrigus_transparent_84
+  - first:
+      213: 4461709217672253418
+    second: Cofagrigus_transparent_85
+  - first:
+      213: -5491179401185131689
+    second: Cofagrigus_transparent_86
+  - first:
+      213: -8972875144117015456
+    second: Cofagrigus_transparent_87
+  - first:
+      213: 816892666691326351
+    second: Cofagrigus_transparent_88
+  - first:
+      213: 5987297144632972524
+    second: Cofagrigus_transparent_89
+  - first:
+      213: -2597589690382091669
+    second: Cofagrigus_transparent_90
+  - first:
+      213: 5922072413389869649
+    second: Cofagrigus_transparent_91
+  - first:
+      213: 30453596531701684
+    second: Cofagrigus_transparent_92
+  - first:
+      213: 2433081526838895933
+    second: Cofagrigus_transparent_93
+  - first:
+      213: 6899466958350066085
+    second: Cofagrigus_transparent_94
+  - first:
+      213: 5539096098174350875
+    second: Cofagrigus_transparent_95
+  - first:
+      213: -2119959217303206060
+    second: Cofagrigus_transparent_96
+  - first:
+      213: -2135845590505915492
+    second: Cofagrigus_transparent_97
+  - first:
+      213: -532834321301953847
+    second: Cofagrigus_transparent_98
+  - first:
+      213: -1081416583398878768
+    second: Cofagrigus_transparent_99
+  - first:
+      213: 7089158719303627321
+    second: Cofagrigus_transparent_100
+  - first:
+      213: 3384705294524860888
+    second: Cofagrigus_transparent_101
+  - first:
+      213: 2166377191707137514
+    second: Cofagrigus_transparent_102
+  - first:
+      213: -7332966008084425284
+    second: Cofagrigus_transparent_103
+  - first:
+      213: -4178745062780548100
+    second: Cofagrigus_transparent_104
+  - first:
+      213: 543534008131954720
+    second: Cofagrigus_transparent_105
+  - first:
+      213: 9077824484540195294
+    second: Cofagrigus_transparent_106
+  - first:
+      213: -3743714093434899892
+    second: Cofagrigus_transparent_107
+  - first:
+      213: 5372628226123752710
+    second: Cofagrigus_transparent_108
+  - first:
+      213: 3466618703514725845
+    second: Cofagrigus_transparent_109
+  - first:
+      213: 7710340563029496224
+    second: Cofagrigus_transparent_110
+  - first:
+      213: -5717150747358643041
+    second: Cofagrigus_transparent_111
+  - first:
+      213: -2570042964084197225
+    second: Cofagrigus_transparent_112
+  - first:
+      213: -2953956416253136683
+    second: Cofagrigus_transparent_113
+  - first:
+      213: 929104159546753678
+    second: Cofagrigus_transparent_114
+  - first:
+      213: -5191075634880778827
+    second: Cofagrigus_transparent_115
+  - first:
+      213: 1192141498733316256
+    second: Cofagrigus_transparent_116
+  - first:
+      213: 2339490629729346787
+    second: Cofagrigus_transparent_117
+  - first:
+      213: 3233010490642758855
+    second: Cofagrigus_transparent_118
+  - first:
+      213: 3945877116223402411
+    second: Cofagrigus_transparent_119
+  - first:
+      213: 4229260322136531698
+    second: Cofagrigus_transparent_120
+  - first:
+      213: -5669054146808253966
+    second: Cofagrigus_transparent_121
+  - first:
+      213: -8850749766958190411
+    second: Cofagrigus_transparent_122
+  - first:
+      213: -5793773868902310911
+    second: Cofagrigus_transparent_123
+  - first:
+      213: 6432317897242315409
+    second: Cofagrigus_transparent_124
+  - first:
+      213: -4236392814266627878
+    second: Cofagrigus_transparent_125
+  - first:
+      213: -161868349495744619
+    second: Cofagrigus_transparent_126
+  - first:
+      213: -4121949504826061291
+    second: Cofagrigus_transparent_127
+  - first:
+      213: 3506901316513707260
+    second: Cofagrigus_transparent_128
+  - first:
+      213: -2360302964710951076
+    second: Cofagrigus_transparent_129
+  - first:
+      213: -8577161679034319538
+    second: Cofagrigus_transparent_130
+  - first:
+      213: 816837478971986203
+    second: Cofagrigus_transparent_131
+  - first:
+      213: 8736007663344762934
+    second: Cofagrigus_transparent_132
+  - first:
+      213: 5671847065765114614
+    second: Cofagrigus_transparent_133
+  - first:
+      213: 3469809678390137508
+    second: Cofagrigus_transparent_134
+  - first:
+      213: -4788196067276790524
+    second: Cofagrigus_transparent_135
+  - first:
+      213: -7357169052609267000
+    second: Cofagrigus_transparent_136
+  - first:
+      213: 594548985048216850
+    second: Cofagrigus_transparent_137
+  - first:
+      213: 1940712880573021659
+    second: Cofagrigus_transparent_138
+  - first:
+      213: 5088335088324848007
+    second: Cofagrigus_transparent_139
+  - first:
+      213: 8455107001348085780
+    second: Cofagrigus_transparent_140
+  - first:
+      213: 2547116756632985962
+    second: Cofagrigus_transparent_141
+  - first:
+      213: 6922360932087303552
+    second: Cofagrigus_transparent_142
+  - first:
+      213: 16059757071161518
+    second: Cofagrigus_transparent_143
+  - first:
+      213: 5745557220402354736
+    second: Cofagrigus_transparent_144
+  - first:
+      213: 757426205892488344
+    second: Cofagrigus_transparent_145
+  - first:
+      213: 5692354747070852206
+    second: Cofagrigus_transparent_146
+  - first:
+      213: -7332021776884962928
+    second: Cofagrigus_transparent_147
+  - first:
+      213: 1817170745644008045
+    second: Cofagrigus_transparent_148
+  - first:
+      213: 5189452096083599000
+    second: Cofagrigus_transparent_149
+  - first:
+      213: -5070638913450793128
+    second: Cofagrigus_transparent_150
+  - first:
+      213: -5102093204717398544
+    second: Cofagrigus_transparent_151
+  - first:
+      213: -5894568635807202644
+    second: Cofagrigus_transparent_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 105
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e635dc408588280800000000000000
+      internalID: -9040879474298360290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 294
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d054f2e98046230800000000000000
+      internalID: 3631036675058371922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 297
+        width: 105
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f313178ae2ec8b0800000000000000
+      internalID: -5130111624539979999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 300
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142c9ac354b3ca140800000000000000
+      internalID: 4732222477016089153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 304
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f608381484a822190800000000000000
+      internalID: -7988670746060423057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 307
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfee5e0a6e280850800000000000000
+      internalID: 6343371108193857472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 300
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005718896e97a07d0800000000000000
+      internalID: -2951412574479878912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 301
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a117583b613fc9a90800000000000000
+      internalID: -7305697216675090150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 299
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f873d587fcff21050800000000000000
+      internalID: 5769955339157714831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 298
+        width: 105
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f1b525e323654f0800000000000000
+      internalID: -840429037206954204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a177c3f5b830e20800000000000000
+      internalID: 3315646991827409472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 230
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35f9b6f7d792d540800000000000000
+      internalID: 5031250687539410237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 269
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6515d8d65cb4c1050800000000000000
+      internalID: 5772572133700751702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 284
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2011f2a78a4d03ed0800000000000000
+      internalID: -2436213578337939198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 269
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040cbe3556947d1c0800000000000000
+      internalID: -4479030604848185280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 271
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b406c41ebeed95120800000000000000
+      internalID: 2403196980857430091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 284
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b62e98967be6a60800000000000000
+      internalID: 7669268879371299618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 255
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9788c0685da4203f0800000000000000
+      internalID: -936103491602184071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5ef20b5dbe35920800000000000000
+      internalID: 2977983081638520294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 255
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115e305587f87e9c0800000000000000
+      internalID: -3897989205480708847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 255
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bad1ec1da47261a0800000000000000
+      internalID: -6817758599022781775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c58b338dcfbe8c60800000000000000
+      internalID: 7822400492180047303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb8d34e6bb90a150800000000000000
+      internalID: 5881872323161459654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 255
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d057730d82626d10800000000000000
+      internalID: 2117363132605616340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8481c41a7b08e2400800000000000000
+      internalID: 301319751253891144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 255
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5d825d4184a0750800000000000000
+      internalID: 6271904685379605963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 255
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c77fd27c0d530ab0800000000000000
+      internalID: -5043084849676585023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b0d2a85eefbee80800000000000000
+      internalID: -8148138838977606902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbd080449ea0e4b0800000000000000
+      internalID: -5413134800338756649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 255
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9cb2a3f4101b4e0800000000000000
+      internalID: -1967790122394203662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aeb7c60a498a510800000000000000
+      internalID: 1560660687619615283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 253
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c883ed3253300dfe0800000000000000
+      internalID: -1166428776719042420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 253
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d11ee4446c0197a0800000000000000
+      internalID: -6372298372959825456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1156e458b6deda180800000000000000
+      internalID: -9102358225792113391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029df887a832e4240800000000000000
+      internalID: 4777795332321827104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 253
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a27a7e18a705650800000000000000
+      internalID: 6219605783754517025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6760847d5b189af10800000000000000
+      internalID: 2281497304240752246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92592451b92948740800000000000000
+      internalID: 5153405068392961321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 253
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bc5c01bc3b55730800000000000000
+      internalID: 3987290729847573296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 243
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ce255c305322690800000000000000
+      internalID: -7628476528500478895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 255
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699ceac20f8e25950800000000000000
+      internalID: 6436462935705307542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 253
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb8f68dea65aac0800000000000000
+      internalID: -3844549138486608265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 243
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f4ffe3b079aba00800000000000000
+      internalID: 773096360604815173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 255
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8998890bdc980950800000000000000
+      internalID: 6415550133760989581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956b5ddf2799d7c30800000000000000
+      internalID: 4358808733528471129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51085b11e721f0d0800000000000000
+      internalID: -3390885196653395620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 255
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c867012b0e2a4cc0800000000000000
+      internalID: -3726115116362012474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c38e31482b413b80800000000000000
+      internalID: -8416863592313355320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001a75b3b45c35510800000000000000
+      internalID: 1536788824772288768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12215b14c02ca7e0800000000000000
+      internalID: -1752990128309984740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 243
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eef552b5560c570800000000000000
+      internalID: 8484893140109487758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76274efe2b3803f0800000000000000
+      internalID: -934431849658767749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 255
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdefdb7eff449d90800000000000000
+      internalID: -7091955558783128142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2903b981dbfacb60800000000000000
+      internalID: 7767297384730790189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 255
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d72d6c43d257e90800000000000000
+      internalID: -7028661938744558205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff93a8a7a0d846600800000000000000
+      internalID: 460648138043701759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1066bc37652b4dc0800000000000000
+      internalID: -3653785547350581221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 255
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930ea05e7473ef1e0800000000000000
+      internalID: -2162229989166358471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28ba5faf3d0460f0800000000000000
+      internalID: -1124759439759722451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 255
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb8d88c96b0c82b0800000000000000
+      internalID: -5581073289254695958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 255
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30436b10b3f8101c0800000000000000
+      internalID: -4539189465818188797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 254
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceea9784116a3a50800000000000000
+      internalID: 6501615752865050306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 230
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d36a7543f9964b0800000000000000
+      internalID: -5446647227170276055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 223
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5706a4a12cf850ef0800000000000000
+      internalID: -142549749364793227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 218
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6473eb21b9a536d90800000000000000
+      internalID: -7105736164979624122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 193
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf6fef2edec8b1c0800000000000000
+      internalID: -4487609574992416843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 193
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daa009e1a9714ee0800000000000000
+      internalID: -1278607082890679600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 226
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1094d67819500cc0800000000000000
+      internalID: -3746896928364523490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 226
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa552e656270e340800000000000000
+      internalID: 4891034975289563809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 226
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff147f03f832a8920800000000000000
+      internalID: 2993244000249922047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_70
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 193
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f7d8cfd0a0b1cd0800000000000000
+      internalID: -2586462505806233844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_71
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 226
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064d3bd1f2e50c9d0800000000000000
+      internalID: -2756099415495945120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_72
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e13f3b611ad3460800000000000000
+      internalID: 7223106496252550659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_73
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc540e069ad3ca990800000000000000
+      internalID: -7373450692228266545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_74
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afd86940d7c5bca0800000000000000
+      internalID: -6001671231002583129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_75
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6f54c8302797580800000000000000
+      internalID: -8828900234919282987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_76
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eae71f7323a3620800000000000000
+      internalID: 2754569337946680841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4089b5e614ed5f870800000000000000
+      internalID: 8716117026451200004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_78
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 243
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce4a780d086e64e0800000000000000
+      internalID: -1986535980437713205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_79
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789824f5f5b583ee0800000000000000
+      internalID: -1281173628808689273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_80
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0fa66a0960d1900800000000000000
+      internalID: 656688339003044049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_81
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 243
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6742de90269a89b0800000000000000
+      internalID: -5077080563059112082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_82
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 243
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c947188325c248d0800000000000000
+      internalID: -2863509656656459321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_83
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 243
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc6e7fb64bcf0b10800000000000000
+      internalID: 1950000668395596989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_84
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 241
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4907580a64056fd0800000000000000
+      internalID: -2349466777150879410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_85
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefc072f4ec2bed30800000000000000
+      internalID: 4461709217672253418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_86
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7530b6a9d696bc3b0800000000000000
+      internalID: -5491179401185131689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_87
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c29f4c891f97380800000000000000
+      internalID: -8972875144117015456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_88
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8112c16d8f265b00800000000000000
+      internalID: 816892666691326351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_89
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce41f8ee707271350800000000000000
+      internalID: 5987297144632972524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_90
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 243
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6afe8070f183fbd0800000000000000
+      internalID: -2597589690382091669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_91
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 243
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1525e36cb7d6f2250800000000000000
+      internalID: 5922072413389869649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 105
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7b76b72613c6000800000000000000
+      internalID: 30453596531701684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 115
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d352cc4f1ca04c120800000000000000
+      internalID: 2433081526838895933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_94
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 181
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a12008c4a4dfbf50800000000000000
+      internalID: 6899466958350066085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_95
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 187
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b163f6ccd82dedc40800000000000000
+      internalID: 5539096098174350875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_96
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 193
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457c35ae2546492e0800000000000000
+      internalID: -2119959217303206060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_97
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 195
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b7fca60c3fb52e0800000000000000
+      internalID: -2135845590505915492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_98
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 188
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c229a2020efa98f0800000000000000
+      internalID: -532834321301953847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_99
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 188
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d11b44d8590ef0f0800000000000000
+      internalID: -1081416583398878768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_100
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 116
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932b4749b40c16260800000000000000
+      internalID: 7089158719303627321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_101
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 114
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9c98d4883e8fe20800000000000000
+      internalID: 3384705294524860888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_102
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 114
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae55631f394801e10800000000000000
+      internalID: 2166377191707137514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_103
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 114
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb51d1274421c3a90800000000000000
+      internalID: -7332966008084425284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_104
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 114
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb4c0e518d1206c0800000000000000
+      internalID: -4178745062780548100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_105
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 114
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028ac06fc450b8700800000000000000
+      internalID: 543534008131954720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_106
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 114
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1ac56b549eafd70800000000000000
+      internalID: 9077824484540195294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_107
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 154
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c427038fdd7ab0cc0800000000000000
+      internalID: -3743714093434899892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_108
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 158
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605e75008e86f8a40800000000000000
+      internalID: 5372628226123752710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_109
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 158
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd68ba0857eb1030800000000000000
+      internalID: 3466618703514725845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_110
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 136
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a198a414e1a00b60800000000000000
+      internalID: 7710340563029496224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_111
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 136
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c3450afa998a0b0800000000000000
+      internalID: -5717150747358643041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_112
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 133
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798f4447a8f555cd0800000000000000
+      internalID: -2570042964084197225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_113
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 150
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0fe374a407107d0800000000000000
+      internalID: -2953956416253136683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_114
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 177
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e824f1d7f47d4ec00800000000000000
+      internalID: 929104159546753678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_115
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 159
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdeebca63895f7b0800000000000000
+      internalID: -5191075634880778827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_116
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 152
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8400a70665b8010800000000000000
+      internalID: 1192141498733316256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_117
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 116
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e46f54255a877020800000000000000
+      internalID: 2339490629729346787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_118
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 116
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc7fd979e5fddc20800000000000000
+      internalID: 3233010490642758855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_119
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 116
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1b6dfb45292c630800000000000000
+      internalID: 3945877116223402411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_120
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 109
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f22a9bfad951ba30800000000000000
+      internalID: 4229260322136531698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_121
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 87
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1f9071a497351b0800000000000000
+      internalID: -5669054146808253966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_122
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 87
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0f590faf1db2580800000000000000
+      internalID: -8850749766958190411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_123
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 117
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c132bec51689fa0800000000000000
+      internalID: -5793773868902310911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_124
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 101
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a04833c0f244950800000000000000
+      internalID: 6432317897242315409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_125
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 103
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8ce984e2f4535c0800000000000000
+      internalID: -4236392814266627878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_126
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 106
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5976deff79de0cdf0800000000000000
+      internalID: -161868349495744619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_127
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 108
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ecebea3c4ebc6c0800000000000000
+      internalID: -4121949504826061291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_128
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 99
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf43621ca240ba030800000000000000
+      internalID: 3506901316513707260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 105
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c573a1285f48e3fd0800000000000000
+      internalID: -2360302964710951076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_130
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4df01c85ecc7f880800000000000000
+      internalID: -8577161679034319538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_131
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11d95dfb5df55b00800000000000000
+      internalID: 816837478971986203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_132
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 68
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63041c83fa88c3970800000000000000
+      internalID: 8736007663344762934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_133
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 85
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f275470bd276be40800000000000000
+      internalID: 5671847065765114614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_134
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 66
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a218a6c48d372030800000000000000
+      internalID: 3469809678390137508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_135
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 64
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4056b07bb09ec8db0800000000000000
+      internalID: -4788196067276790524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_136
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 61
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca3ab20ab516e990800000000000000
+      internalID: -7357169052609267000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_137
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 60
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2153e5fd623404800800000000000000
+      internalID: 594548985048216850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_138
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd7491251cceea10800000000000000
+      internalID: 1940712880573021659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78922cdbdc56d9640800000000000000
+      internalID: 5088335088324848007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_140
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41855494503965570800000000000000
+      internalID: 8455107001348085780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_141
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61ed88e13d295320800000000000000
+      internalID: 2547116756632985962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_142
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 45
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d0b1c679a211060800000000000000
+      internalID: 6922360932087303552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_143
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 7
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8d763934e093000800000000000000
+      internalID: 16059757071161518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_144
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 12
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a53c6c9d15cbf40800000000000000
+      internalID: 5745557220402354736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_145
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 25
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c2bc90f1be28a00800000000000000
+      internalID: 757426205892488344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_146
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 43
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6caaaaab7e4ffe40800000000000000
+      internalID: 5692354747070852206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_147
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 30
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099e7576a0d6f3a90800000000000000
+      internalID: -7332021776884962928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_148
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 7
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62c7565a23e73910800000000000000
+      internalID: 1817170745644008045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_149
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 15
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e18fdbf23a40840800000000000000
+      internalID: 5189452096083599000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_150
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 23
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8572e7b06c871a9b0800000000000000
+      internalID: -5070638913450793128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_151
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 6
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f592e92349b139b0800000000000000
+      internalID: -5102093204717398544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cofagrigus_transparent_152
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca28d867e09423ea0800000000000000
+      internalID: -5894568635807202644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cofagrigus_transparent_0: -9040879474298360290
+      Cofagrigus_transparent_1: 3631036675058371922
+      Cofagrigus_transparent_10: 3315646991827409472
+      Cofagrigus_transparent_100: 7089158719303627321
+      Cofagrigus_transparent_101: 3384705294524860888
+      Cofagrigus_transparent_102: 2166377191707137514
+      Cofagrigus_transparent_103: -7332966008084425284
+      Cofagrigus_transparent_104: -4178745062780548100
+      Cofagrigus_transparent_105: 543534008131954720
+      Cofagrigus_transparent_106: 9077824484540195294
+      Cofagrigus_transparent_107: -3743714093434899892
+      Cofagrigus_transparent_108: 5372628226123752710
+      Cofagrigus_transparent_109: 3466618703514725845
+      Cofagrigus_transparent_11: 5031250687539410237
+      Cofagrigus_transparent_110: 7710340563029496224
+      Cofagrigus_transparent_111: -5717150747358643041
+      Cofagrigus_transparent_112: -2570042964084197225
+      Cofagrigus_transparent_113: -2953956416253136683
+      Cofagrigus_transparent_114: 929104159546753678
+      Cofagrigus_transparent_115: -5191075634880778827
+      Cofagrigus_transparent_116: 1192141498733316256
+      Cofagrigus_transparent_117: 2339490629729346787
+      Cofagrigus_transparent_118: 3233010490642758855
+      Cofagrigus_transparent_119: 3945877116223402411
+      Cofagrigus_transparent_12: 5772572133700751702
+      Cofagrigus_transparent_120: 4229260322136531698
+      Cofagrigus_transparent_121: -5669054146808253966
+      Cofagrigus_transparent_122: -8850749766958190411
+      Cofagrigus_transparent_123: -5793773868902310911
+      Cofagrigus_transparent_124: 6432317897242315409
+      Cofagrigus_transparent_125: -4236392814266627878
+      Cofagrigus_transparent_126: -161868349495744619
+      Cofagrigus_transparent_127: -4121949504826061291
+      Cofagrigus_transparent_128: 3506901316513707260
+      Cofagrigus_transparent_129: -2360302964710951076
+      Cofagrigus_transparent_13: -2436213578337939198
+      Cofagrigus_transparent_130: -8577161679034319538
+      Cofagrigus_transparent_131: 816837478971986203
+      Cofagrigus_transparent_132: 8736007663344762934
+      Cofagrigus_transparent_133: 5671847065765114614
+      Cofagrigus_transparent_134: 3469809678390137508
+      Cofagrigus_transparent_135: -4788196067276790524
+      Cofagrigus_transparent_136: -7357169052609267000
+      Cofagrigus_transparent_137: 594548985048216850
+      Cofagrigus_transparent_138: 1940712880573021659
+      Cofagrigus_transparent_139: 5088335088324848007
+      Cofagrigus_transparent_14: -4479030604848185280
+      Cofagrigus_transparent_140: 8455107001348085780
+      Cofagrigus_transparent_141: 2547116756632985962
+      Cofagrigus_transparent_142: 6922360932087303552
+      Cofagrigus_transparent_143: 16059757071161518
+      Cofagrigus_transparent_144: 5745557220402354736
+      Cofagrigus_transparent_145: 757426205892488344
+      Cofagrigus_transparent_146: 5692354747070852206
+      Cofagrigus_transparent_147: -7332021776884962928
+      Cofagrigus_transparent_148: 1817170745644008045
+      Cofagrigus_transparent_149: 5189452096083599000
+      Cofagrigus_transparent_15: 2403196980857430091
+      Cofagrigus_transparent_150: -5070638913450793128
+      Cofagrigus_transparent_151: -5102093204717398544
+      Cofagrigus_transparent_152: -5894568635807202644
+      Cofagrigus_transparent_16: 7669268879371299618
+      Cofagrigus_transparent_17: -936103491602184071
+      Cofagrigus_transparent_18: 2977983081638520294
+      Cofagrigus_transparent_19: -3897989205480708847
+      Cofagrigus_transparent_2: -5130111624539979999
+      Cofagrigus_transparent_20: -6817758599022781775
+      Cofagrigus_transparent_21: 7822400492180047303
+      Cofagrigus_transparent_22: 5881872323161459654
+      Cofagrigus_transparent_23: 2117363132605616340
+      Cofagrigus_transparent_24: 301319751253891144
+      Cofagrigus_transparent_25: 6271904685379605963
+      Cofagrigus_transparent_26: -5043084849676585023
+      Cofagrigus_transparent_27: -8148138838977606902
+      Cofagrigus_transparent_28: -5413134800338756649
+      Cofagrigus_transparent_29: -1967790122394203662
+      Cofagrigus_transparent_3: 4732222477016089153
+      Cofagrigus_transparent_30: 1560660687619615283
+      Cofagrigus_transparent_31: -1166428776719042420
+      Cofagrigus_transparent_32: -6372298372959825456
+      Cofagrigus_transparent_33: -9102358225792113391
+      Cofagrigus_transparent_34: 4777795332321827104
+      Cofagrigus_transparent_35: 6219605783754517025
+      Cofagrigus_transparent_36: 2281497304240752246
+      Cofagrigus_transparent_37: 5153405068392961321
+      Cofagrigus_transparent_38: 3987290729847573296
+      Cofagrigus_transparent_39: -7628476528500478895
+      Cofagrigus_transparent_4: -7988670746060423057
+      Cofagrigus_transparent_40: 6436462935705307542
+      Cofagrigus_transparent_41: -3844549138486608265
+      Cofagrigus_transparent_42: 773096360604815173
+      Cofagrigus_transparent_43: 6415550133760989581
+      Cofagrigus_transparent_44: 4358808733528471129
+      Cofagrigus_transparent_45: -3390885196653395620
+      Cofagrigus_transparent_46: -3726115116362012474
+      Cofagrigus_transparent_47: -8416863592313355320
+      Cofagrigus_transparent_48: 1536788824772288768
+      Cofagrigus_transparent_49: -1752990128309984740
+      Cofagrigus_transparent_5: 6343371108193857472
+      Cofagrigus_transparent_50: 8484893140109487758
+      Cofagrigus_transparent_51: -934431849658767749
+      Cofagrigus_transparent_52: -7091955558783128142
+      Cofagrigus_transparent_53: 7767297384730790189
+      Cofagrigus_transparent_54: -7028661938744558205
+      Cofagrigus_transparent_55: 460648138043701759
+      Cofagrigus_transparent_56: -3653785547350581221
+      Cofagrigus_transparent_57: -2162229989166358471
+      Cofagrigus_transparent_58: -1124759439759722451
+      Cofagrigus_transparent_59: -5581073289254695958
+      Cofagrigus_transparent_6: -2951412574479878912
+      Cofagrigus_transparent_60: -4539189465818188797
+      Cofagrigus_transparent_61: 6501615752865050306
+      Cofagrigus_transparent_62: -5446647227170276055
+      Cofagrigus_transparent_63: -142549749364793227
+      Cofagrigus_transparent_64: -7105736164979624122
+      Cofagrigus_transparent_65: -4487609574992416843
+      Cofagrigus_transparent_66: -1278607082890679600
+      Cofagrigus_transparent_67: -3746896928364523490
+      Cofagrigus_transparent_68: 4891034975289563809
+      Cofagrigus_transparent_69: 2993244000249922047
+      Cofagrigus_transparent_7: -7305697216675090150
+      Cofagrigus_transparent_70: -2586462505806233844
+      Cofagrigus_transparent_71: -2756099415495945120
+      Cofagrigus_transparent_72: 7223106496252550659
+      Cofagrigus_transparent_73: -7373450692228266545
+      Cofagrigus_transparent_74: -6001671231002583129
+      Cofagrigus_transparent_75: -8828900234919282987
+      Cofagrigus_transparent_76: 2754569337946680841
+      Cofagrigus_transparent_77: 8716117026451200004
+      Cofagrigus_transparent_78: -1986535980437713205
+      Cofagrigus_transparent_79: -1281173628808689273
+      Cofagrigus_transparent_8: 5769955339157714831
+      Cofagrigus_transparent_80: 656688339003044049
+      Cofagrigus_transparent_81: -5077080563059112082
+      Cofagrigus_transparent_82: -2863509656656459321
+      Cofagrigus_transparent_83: 1950000668395596989
+      Cofagrigus_transparent_84: -2349466777150879410
+      Cofagrigus_transparent_85: 4461709217672253418
+      Cofagrigus_transparent_86: -5491179401185131689
+      Cofagrigus_transparent_87: -8972875144117015456
+      Cofagrigus_transparent_88: 816892666691326351
+      Cofagrigus_transparent_89: 5987297144632972524
+      Cofagrigus_transparent_9: -840429037206954204
+      Cofagrigus_transparent_90: -2597589690382091669
+      Cofagrigus_transparent_91: 5922072413389869649
+      Cofagrigus_transparent_92: 30453596531701684
+      Cofagrigus_transparent_93: 2433081526838895933
+      Cofagrigus_transparent_94: 6899466958350066085
+      Cofagrigus_transparent_95: 5539096098174350875
+      Cofagrigus_transparent_96: -2119959217303206060
+      Cofagrigus_transparent_97: -2135845590505915492
+      Cofagrigus_transparent_98: -532834321301953847
+      Cofagrigus_transparent_99: -1081416583398878768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

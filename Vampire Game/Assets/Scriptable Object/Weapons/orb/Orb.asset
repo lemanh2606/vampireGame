@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1f3a4fab0ebacb546bdbd0cfc23d22e1, type: 3}
-  m_Name: HammerSawWeapon
+  m_Name: Orb
   m_EditorClassIdentifier: 
-  prefab: {fileID: 5664671291062845475, guid: 1b9290da0fb8b744380693b0d273d35f, type: 3}
+  prefab: {fileID: 6453717461674233366, guid: 06ae3e889044cf34e88eae1cf3a55482, type: 3}
   damage: 5
   speed: 10
-  cooldownDuration: 0.5
+  cooldownDuration: 3
   pierce: 1
   level: 1
   nextLevelPrefabs: {fileID: 6453717461674233366, guid: 8452fd118c23d1b49a8b0a1414561f92, type: 3}
-  name: Hammer Saw
+  name: Orb
   description: Shoots Hammer Saw in the direction the player is facing
-  icon: {fileID: 790947474, guid: de601a8258ec95f4b93ac52b3c05566a, type: 3}
+  icon: {fileID: 9163179789190762368, guid: bf9a7556082c28747a5926b514b75c5e, type: 3}

@@ -7365,6 +7365,54 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!1 &1568688580
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1568688582}
+  - component: {fileID: 1568688581}
+  m_Layer: 0
+  m_Name: orbSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1568688581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1568688580}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22f3262ddb7bbc64283fa27bdbd652f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orbPrefab: {fileID: 5664671291062845475, guid: 22a849e4b5a470445825c5397fb424a4, type: 3}
+  playerTransform: {fileID: 1580054352}
+  maxOrbs: 20
+  spawnInterval: 2
+--- !u!4 &1568688582
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1568688580}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.5514199, y: 0.5765153, z: 0.087406226}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1569046792
 GameObject:
   m_ObjectHideFlags: 0
@@ -7743,7 +7791,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.53125, y: 2.34375}
+    oldSize: {x: 1.59375, y: 2.25}
     newSize: {x: 1.53125, y: 2.34375}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -7795,7 +7843,7 @@ SpriteRenderer:
   m_SortingLayerID: -277784545
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: 4723107735738678597, guid: 6e9491af2358edf4ab3c0888806082ec, type: 3}
+  m_Sprite: {fileID: 4723107735738678597, guid: bb635186de20dcd4b8b00868103bc171, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -7845,7 +7893,7 @@ Animator:
   m_GameObject: {fileID: 1580054347}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3c298c495c95e854bafa1015ef27227f, type: 2}
+  m_Controller: {fileID: 9100000, guid: 8420c81c3f78f5143bc76aec7bf5a88f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -10045,7 +10093,7 @@ MonoBehaviour:
     waveQuota: 0
     spawnInterval: 1
     spawnCount: 0
-  - waveName: Wave 5
+  - waveName: Wave 6
     enemyGroups:
     - enemyName: ' Bat '
       enemyCount: 20
@@ -10056,7 +10104,7 @@ MonoBehaviour:
       spawnCount: 0
       enemyPrefab: {fileID: 5412335495137039937, guid: 427f3a7498f9d4147ba6ea4607e0ab61, type: 3}
     - enemyName: Boss
-      enemyCount: 3
+      enemyCount: 1
       spawnCount: 0
       enemyPrefab: {fileID: 5412335495137039937, guid: e9fa3b6e08d75394ba16605e49f8efa5, type: 3}
     waveQuota: 0
@@ -10805,3 +10853,4 @@ SceneRoots:
   - {fileID: 278112678}
   - {fileID: 1216578259}
   - {fileID: 88841225}
+  - {fileID: 1568688582}

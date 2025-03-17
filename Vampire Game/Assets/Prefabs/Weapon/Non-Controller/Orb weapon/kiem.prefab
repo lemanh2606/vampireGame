@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5186345363707023357}
   - component: {fileID: 7498038626266337138}
   m_Layer: 0
-  m_Name: orb 1
+  m_Name: kiem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

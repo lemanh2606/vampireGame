@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 702458060009647474}
   - component: {fileID: 5763313266321937584}
   m_Layer: 0
-  m_Name: Orb 1
+  m_Name: kiem level 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,4 +44,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77ece7aa30a1e4740bd2c8e3385b11f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weaponData: {fileID: 11400000, guid: 5e21c625db941de4b918178d3091872f, type: 2}
+  weaponData: {fileID: 11400000, guid: 2e1b5bbd74deba949b3d4418daf06b81, type: 2}

@@ -159,6 +159,51 @@ MonoBehaviour:
   - name: Blu gem
     itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
     dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
+  - name: Blu gem
+    itemPrefab: {fileID: 1412501329158781369, guid: 5ada25c93f30e104a8fe9531768c068f, type: 3}
+    dropeRate: 100
 --- !u!61 &5806795178033994526
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -197,7 +242,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.1, y: 2.22}
+    oldSize: {x: 6.5625, y: 6.9375}
     newSize: {x: 2.1, y: 2.22}
     adaptiveTilingThreshold: 0.5
     drawMode: 0

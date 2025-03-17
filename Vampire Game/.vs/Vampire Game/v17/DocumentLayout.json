@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Game\\vampireGame\\Vampire Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|c:\\game\\vampiregame\\vampire game\\assets\\script\\player\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|C:\\Game\\vampireGame\\Vampire Game\\assets\\script\\weapon\\weaponcontroller\\orbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weaponcontroller\\orbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|c:\\game\\vampiregame\\vampire game\\assets\\script\\weapon\\weaponcontroller\\garliccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weaponcontroller\\garliccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|c:\\game\\vampiregame\\vampire game\\assets\\script\\weapon\\weaponbehavior\\orbweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|C:\\Game\\vampireGame\\Vampire Game\\assets\\script\\weapon\\weaponbehavior\\orbweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weaponbehavior\\orbweaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|c:\\game\\vampiregame\\vampire game\\assets\\script\\weapon\\weaponcontroller\\orbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF718AB6-EC90-2DB2-F5B7-06131D686AF8}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weaponcontroller\\orbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Game\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\InventoryManager.cs",
+              "ToolTip": "C:\\Game\\vampireGame\\Vampire Game\\Assets\\Script\\Player\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\InventoryManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwDYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:59:08.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GarlicController.cs",
               "DocumentMoniker": "C:\\Game\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponController\\GarlicController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponController\\GarlicController.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "orbWeaponBehaviour.cs",
               "DocumentMoniker": "C:\\Game\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponBehavior\\orbWeaponBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponBehavior\\orbWeaponBehaviour.cs",
@@ -47,18 +64,17 @@
               "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponBehavior\\orbWeaponBehaviour.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T16:40:17.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T16:40:17.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OrbController.cs",
               "DocumentMoniker": "C:\\Game\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponController\\OrbController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponController\\OrbController.cs",
               "ToolTip": "C:\\Game\\vampireGame\\Vampire Game\\Assets\\Script\\Weapon\\WeaponController\\OrbController.cs",
               "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponController\\OrbController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T16:39:58.852Z",
               "EditorCaption": ""

@@ -7982,9 +7982,12 @@ MonoBehaviour:
   - weaponUpgradeIndex: 0
     initialWeapon: {fileID: 6453717461674233366, guid: 9dbd11d84f51a934b9e59a9fb14a35fc, type: 3}
     weaponData: {fileID: 11400000, guid: f9fa041d675fc5145a81f2adc204acb4, type: 2}
-  - weaponUpgradeIndex: 0
+  - weaponUpgradeIndex: 1
     initialWeapon: {fileID: 3369883419433647343, guid: 8e56ba137b6f2d5479184267abac49b3, type: 3}
     weaponData: {fileID: 11400000, guid: 59e9af9a7eac9e647850152f36450059, type: 2}
+  - weaponUpgradeIndex: 2
+    initialWeapon: {fileID: 6453717461674233366, guid: 3529bb1c46e8f404b817cba08d20d1e0, type: 3}
+    weaponData: {fileID: 11400000, guid: c7af3a0fc5866d146873d5b97fd28824, type: 2}
   passiveItemUpgradeOptions:
   - passiveItemUpgradeIndex: 0
     initialPassiveItem: {fileID: 796328812014784728, guid: f0e3490cb582a9044876738579e61f2b, type: 3}
@@ -10104,7 +10107,7 @@ MonoBehaviour:
       spawnCount: 0
       enemyPrefab: {fileID: 5412335495137039937, guid: 427f3a7498f9d4147ba6ea4607e0ab61, type: 3}
     - enemyName: Boss
-      enemyCount: 1
+      enemyCount: 10
       spawnCount: 0
       enemyPrefab: {fileID: 5412335495137039937, guid: e9fa3b6e08d75394ba16605e49f8efa5, type: 3}
     waveQuota: 0

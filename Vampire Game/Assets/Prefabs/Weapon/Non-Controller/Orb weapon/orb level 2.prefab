@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 7498038626266337138}
   - component: {fileID: 1456020513000296962}
   m_Layer: 0
-  m_Name: orb
+  m_Name: orb level 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -81,7 +81,7 @@ SpriteRenderer:
   m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: e7121fd758aa9f34f84ac9f5db05fa9f, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9811321, g: 0.059774604, b: 0.041651815, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -191,9 +191,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 767377019a12bc04ca66d4592ace0504, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weaponData: {fileID: 11400000, guid: c7af3a0fc5866d146873d5b97fd28824, type: 2}
+  weaponData: {fileID: 11400000, guid: 1fcf406786117c249bc7fc5b927d6fc3, type: 2}
   destroyAfterSeconds: 100
-  orbitRadius: 2
+  orbitRadius: 3
   orbitSpeed: 100
 --- !u!95 &1456020513000296962
 Animator:
